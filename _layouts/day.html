@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<article class="day">
+
+  {% if page.supertitle %}
+  <h3 class="super-title">{{ page.supertitle }}</h3>
+  {% endif %}
+
+<!-- put the days across the top -->
+<table  style="width:100%" class="schedule-header">
+  <tr>
+    {% assign days = "saturnday-day1/Saturday, November 19th; sunday-day2/Sunday, November 20th; monday-day3/Monday, November 20th; tuesday-day4/Tuesday, November 21st" | split: "; " %}
+    {% for day in days %}
+    {% assign dayArr = day | split: "/" %}
+    <td
+      {% if page.day == dayArr[0] %}
+      class="selected"
+      {% endif %}
+    >
+      <a href="{{ site.url }}{{ site.baseurl }}/days/{{ dayArr[0] }}/">{{ dayArr[1] }}</a>
+    </td>
+    {% endfor %}
+  </tr>
+</table>
+
+
+{% if page.title %}
+<h3>{{ page.title }}</h3>
+{% endif %}
+<div class="entry">
+    {{ content }}
+  </div>
+  <div>
+    <p><span class="share-box">Share:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>
+  </div>
+
+  {% if page.date %}
+  <div class="date">
+    Last updated on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+  {% endif %}
+
+  {% include disqus.html %}
+</article>
+
+<!-- , <a
+href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}"
+target="_blank">Facebook</a></p> -->

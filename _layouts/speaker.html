@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<article class="speaker">
+    <h1>{{ page.title }}</h1>
+    <h2>{{ page.label}} &nbsp; {{ page.time }}</h2>
+    <div class="flex-row">
+        <div>
+          <p style="float:right">
+            <img class="profile-pic"
+                 src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.image }}" style="max-height:250px;">
+            </p>
+        </div>
+        <div>
+            <p style="font-size:30px"><b>{{ page.name }}</b></p>
+            <p class="aligncenter">{{ page.role }}</p>
+            <p class="aligncenter">{{ page.institution }}</p>
+            <p><b>Website</b>: {{ page.website }}</p>
+        </div>
+    </div>
+    <p><b>Abstract</b>: {{ page.abstract }}</p>
+    <p><b>Bio</b>: {{ page.bio }}</p>
+
+    <div>
+    <p><span class="share-box">Share:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>
+  </div>
+</article>
+
+
+<!-- , <a
+href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}"
+target="_blank">Facebook</a></p> --->
