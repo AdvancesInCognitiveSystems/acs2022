@@ -22,14 +22,11 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 <th width=190px> Time </th>
 <th> Description </th>
 </tr>
-<tr>
-<td> <span class="schedtime"> 10:45 AM - 11:00 AM </span></td>
-<td>  <b> Welcome and Logistics </b> - Mark Burstein and Mohan Sridharan </td>
-</tr>
 
 <tr>
-  <td id="session1"> <span class="schedtime"> 11:00 AM - 12:30 PM </span></td><td> <b> Session 1 </b>
+  <td id="session7"> <span class="schedtime"> 9:00 AM - 10:30 PM </span></td><td> <b> Session 7 </b>
 <!-- ###### Chaired by TBD -->
+<!--
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_6.pdf">An Analysis and
   Comparison of ACT-R and Soar</a> - <a href="{{site.baseurl}}/data/slides/paper06-slides-laird.pdf">(S)</a>, John Laird. <a
@@ -41,6 +38,8 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
     Explanatory Reasoning</a> - <a href="{{site.baseurl}}/data/slides/paper33-slides-langley.pdf">(S)</a>,  Pat Langley and Mohan Sridharan.<a
   onClick="goToSlackChannel(33)"> (on Slack #paper33-langley)</a></li>
   </ol>
+-->
+
   </td>
 </tr>
 <tr>
@@ -49,7 +48,9 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 </tr>
 <tr>
   <td> <span class="schedtime"> 1:00 PM - 1:45 PM </span></td><td> 
-<b>  Invited talk - <a href="{{site.baseurl}}/speakers/gerd_gigerenzer/"> Gerd
+<b>  Invited talk - 
+<!--
+<a href="{{site.baseurl}}/speakers/gerd_gigerenzer/"> Gerd
 Gigerenzer</a>   </b><br>
 <a href="https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer">Director of
 the Harding Center for Risk Literacy, University of Potsdam</a><br>
@@ -59,12 +60,16 @@ the Harding Center for Risk Literacy, University of Potsdam</a><br>
  or <a
  href="https://www.youtube.com/watch?v=AYBFA2rUhrE&list=PL-1wKlUbAzGSdwkBuFJhELkCQ6Hz9u60C&index=4">View
  on YouTube</a>
+-->
+
+
   </td>
 </tr>
 
 <tr>
-  <td id="session2"> <span class="schedtime"> 1:45 PM - 2:45 PM </span></td><td> <b> Session 2 </b>
+  <td id="session8"> <span class="schedtime"> 1:45 PM - 3:00PM </span></td><td> <b> Session 8 </b>
 <!-- ###### Chaired by TBD -->
+<!--
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_14.pdf">Scales and
   Hedges in a Logic with Analogous Semantics</a> - <a href="{{site.baseurl}}/data/slides/paper14-slides-schmidtke.pdf">(S)</a>, H.R.Schmidtke and
@@ -72,17 +77,21 @@ the Harding Center for Risk Literacy, University of Potsdam</a><br>
    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_28.pdf">Hierarchical
   Problem Networks for Knowledge-Based Planning</a> - <a href="{{site.baseurl}}/data/slides/paper28-slides-langley-shrobe.pdf">(S)</a>, Pat Langley and Howard Shrobe <a onClick="goToSlackChannel(28)"> (on Slack #paper28-langley)</a></li>
   </ol>
+  -->
+  
   </td>
 </tr>
 <tr>
-  <td> <span class="schedtime"> 2:45 PM - 3:00 PM </span></td>
+  <td> <span class="schedtime"> 3:00 PM - 3:15 PM </span></td>
   <td>  <b> Break</b> </td>
 </tr>
 <tr>
-  <td id="session3"> <span class="schedtime"> 3:00 PM - 3:40 PM </span></td><td> <b> Session 3 (Short Talks)</b>
+  <td id="session9"> <span class="schedtime"> 3:15 PM - 4:30 PM </span></td><td> <b> Session 9 (Short Talks)</b>
     <div class=shortnote>Short talks are 10 minutes plus 2 minutes for
     questions during changeover.</div> 
 <!-- ###### Chaired by TBD -->
+<!--
+
   <ol>
   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_20.pdf">Signature
   Entrenchment and Conceptual Changes in Automated Theory Repair</a> - <a href="{{site.baseurl}}/data/slides/paper20-slides-li.pdf">(S)</a>,
@@ -96,34 +105,14 @@ the Harding Center for Risk Literacy, University of Potsdam</a><br>
    Scott Friedman, Ian Magnususon, Vasanth Sarathy and Sonja Schmer-Galunder.
    <a onClick="goToSlackChannel(21)"> (on Slack #paper21-friedman)</a></li>
   </ol>
+  -->
   </td>
 </tr>
 
 <tr>
-  <td> <span class="schedtime"> 3:40 PM - 4:00 PM </span></td>
+  <td> <span class="schedtime"> 4:30 PM - 5:00 PM </span></td>
   <td>  <b> Break (with a Breakout Room for each short talk) </b> </td>
 </tr>
 
-<tr>
-  <td id="session4"> <span class="schedtime"> 4:00 PM - 5:00 PM </span></td><td> <b> Session 4</b>
-<!-- ###### Chaired by TBD -->
-  <ol>
-
-   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_35.pdf">OpenMIND: Planning and
-  Adapting in Domains with Novelty</a> - <a href="{{site.baseurl}}/data/slides/paper35-slides-musliner.pdf">(S)</a>,  D. Musliner, M. Pelican, M. McLure, S. Johnston, R. Freedman and C. Knutson<a onClick="goToSlackChannel(35)"> (on Slack #paper35-musliner)</a></li>
-
-<li> <a href="{{site.baseurl}}/data/ACS-21_paper_17.pdf">Learning Norms via
-Natural Language Teachings</a> - <a href="{{site.baseurl}}/data/slides/paper17-slides-olson-forbus.pdf">(S)</a>, Taylor Olson and Ken Forbus. <a
-onClick="goToSlackChannel(17)"> (on Slack #paper17-olson)</a></li>
-    
-</ol>
-   </td>
-   
-</tr>
-
-<tr>
-  <td> <span class="schedtime"> 5:00 PM </span></td>
-  <td>  <b> Adjourn </b> </td>
-</tr>
 
 </table>

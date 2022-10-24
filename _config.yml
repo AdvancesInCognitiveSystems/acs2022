@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: ACS 2021
+name: ACS 2022
 
 # Name of the author
-author: Program Chairs, ACS 2021
+author: Program Chairs, ACS 2022
 
 # Short bio or description (displayed in the header)
-description: Ninth Annual Conference on Advances in Cognitive Systems
+description: Tenth Annual Conference on Advances in Cognitive Systems
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/acs.png
@@ -24,7 +24,7 @@ logo: /images/acs_cropped_white.png
 # Includes an icon in the footer for each username you enter
 footer-links:
 #  dribbble:
-  email: advancescogsys2021@gmail.com
+  email: advancescogsys2022@gmail.com
 #  facebook:
 #  flickr:
 #  github: AdvancesInCognitiveSystems
@@ -32,7 +32,7 @@ footer-links:
 #  linkedin: 
 #  pinterest:
 #  rss: rss
-#  twitter: CogSys2021
+#  twitter: CogSys2022
 #  stackoverflow: 
 #  youtube: # channel/<your_long_string> or user/<user-name>
 #  googleplus: # anything in your profile username that comes after plus.google.com/
@@ -55,7 +55,7 @@ footer-links:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/acs2021"
+baseurl: "/acs2022"
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -102,10 +102,10 @@ collections:
   days:
     output: true
     order:
-      - monday.md
-      - tuesday.md
-      - wednesday.md
-      - thursday.md
+      - saturday-day1.md
+      - sunday-day2.md
+      - monday-day3.md
+      - tuesday-day4.md
 
 # gems:
 # - jekyll-seo-tag
