@@ -5,6 +5,7 @@ supertitle: Schedule
 day: wednesday-day2
 ---
 *All times are Eastern Time (GMT-5). 
+
 <!--
 
 This day's session talks are available on YouTube
@@ -12,10 +13,12 @@ at
 [ACS 2021 Day 2](https://www.youtube.com/playlist?list=PL-1wKlUbAzGTQ-jqenM3OHpSNcFka6VOl).
 Invited talks are linked directly as shown below.
 
--->
+
 
 Paper PDFs are available by clicking on talk titles. For slides, click on
 (S) after title, or look in the corresponding Slack channel.
+
+-->
 
 <!-- You can watch the 
      [recorded talks](https://www.youtube.com/playlist?list=PL-1wKlUbAzGTjZjLcOduALuoZ3aupVSqe) for this day.  (FIX LINK) -->
