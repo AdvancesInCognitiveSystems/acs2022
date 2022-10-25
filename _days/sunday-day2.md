@@ -77,7 +77,7 @@ href="{{site.baseurl}}/speakers/Anthony_Cohn/"> Anthony Cohn</a> </b><br>
    </td> 
 </tr>
 
-<tr> <td> <span class="schedtime"> 3:00 PM - 3:15 PM </span></td> <b> Break</b> </td></tr>
+<tr> <td> <span class="schedtime"> 3:00 PM - 3:15 PM </span></td> <td> <b> Break</b> </td></tr>
 
 
 <tr>
