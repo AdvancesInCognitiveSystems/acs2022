@@ -11,10 +11,11 @@ This day's session talks are available on YouTube
 at
 [ACS 2021 Day 1](https://www.youtube.com/playlist?list=PL-1wKlUbAzGSlUlf92yCfbYlUV8WWkuFT).
 Invited talks are linked directly as shown below.
--->
 
 Paper PDFs are available by clicking on talk titles. For slides, click on
 (S) after title, or look in the corresponding Slack channel.
+-->
+
 
 
 <table>
@@ -52,8 +53,8 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
   <td>  <b> Break</b> </td>
 </tr>
 <tr>
-  <td> <span class="schedtime"> 11:00 PM - 12:00 PM </span></td><td> 
-<b>  Invited talk - 
+  <td> <span class="schedtime"> 11:00 PM - 12:00 PM </span></td>
+  <td> <b>  Invited talk - TBD</b>
 <!--
 <a href="{{site.baseurl}}/speakers/gerd_gigerenzer/"> Gerd
 Gigerenzer</a>   </b><br>
