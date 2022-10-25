@@ -10,17 +10,14 @@ Learn more about the conference [here](http://www.cogsys.org/conference/2021/). 
 
 ## Program Chairs
 
-- [Mark Burstein](http://www.bursteins.net/mark/), SIFT LLC (Lexington, MA)
-- [Mohan Sridharan](https://www.birmingham.ac.uk/staff/profiles/computer-science/sridharan-mohan.aspx),
-University of Birmingham
+- [Jaime Macbeth](https://www.smith.edu/academics/faculty/jamie-macbeth/), Smith College
+- [Leilani Gilpin](https://engineering.ucsc.edu/people/lgilpin), University of California, Santa Cruz
 
 
-## Workshop Chairs
+## Local Chair
 
-- [Mohan Sridharan](https://www.birmingham.ac.uk/staff/profiles/computer-science/sridharan-mohan.aspx),
-University of Birmingham
-- [David McDonald](http://www.ddmcdonald.com/),
-  SIFT LLC (Lexington, MA)
+- [Mihai Boicu](http://lac.gmu.edu/MihaiBoicu/), George Mason University
+
 
 ## Organizing Committee
 
@@ -32,42 +29,50 @@ University of Birmingham
 - Sergei Nirenburg, Rensselaer Polytechnic Institute
 
 ## Program Committee
-- David Aha, Naval Research Laboratory
-- David Barbella, Earlham College
-- Mehul Bhatt, Örebro University
-- Robert Bobrow, Bobrow Computational Intelligence
-- Gordon Briggs, U.S. Naval Research Laboratory
+- Adam Amos-Binks, Applied Research Associates
+- Tarek Richard Besold, TU Eindhoven
+- Mihai Boicu, George Mason University
+- Vadim Bulitko, University of Alberta
 - Mark Burstein, SIFT LLC
-- Rogelio E. Cardona-Rivera, University of Utah
-- Maria Chang, IBM
-- Michael Cox, Wright State Research Institute
-- Dustin Dannenhauer, Navatek LLC
-- Ernest Davis, New York University
+- Rogelio Cardona-Rivera, University of Utah
+- Curtis Carter, Tempus Labs
+- Vinay Chaudhri, JPMorgan & Chase Co.
+- Anthony Cohn, University of Leeds
+- Michael Cox, Wright State University
+- Dustin Dannenhauer, Parallax Advanced Research
+- Zohreh Dannenhauer, Metron, Inc.
+- Johan de Kleer, Palo Alto Research Center
+- Effat Farhana, Vanderbilt University
 - Michael Floyd, Knexus Research
 - Kenneth Forbus, Northwestern University
 - Scott Friedman, SIFT LLC
 - Alfredo Gabaldon, GE Global Research
-- Chris Geib, SIFT LLC
-- Robert Goldman, SIFT LLC
-- Laura Hiatt, U.S. Naval Research Laboratory
-- Tom Hinrichs, Northwestern University
-- Matthew Klenk, Toyota Research Institute
-- Ugur Kuter, SIFT LLC
-- Pat Langley, The University of Auckland
-- David Leake, Indiana University
-- James Lester, North Carolina State University
+- Leilani Gilpin, University of California, Santa Cruz
+- Ashok Goel, Georgia Institute of Technology
+- Arnav Jhala, North Carolina State University
+- Himanshu Joshi, University of Southern California
+- Alexandra Kirsch, Independent Scientist
+- Pat Langley, ISLE / Stanford University
+- Othalia Larue, Parallax Advanced Research
 - Justin Li, Occidental College
+- Henry Lieberman, Massachusetts Institute of Technology
 - Antonio Lieto, University of Turin
 - Andrew Lovett, U.S. Naval Research Laboratory
 - Jamie Macbeth, Smith College
-- Christopher Maclellan, Drexel University
+- Chris Maclellan, Georgia Institute of Technology
 - David McDonald, SIFT LLC
-- Matthew McLure, SIFT LLC
-- Marjorie McShane, RPI
-- Shiwali Mohan, Palo Alto Research Center
-- Sergei Nirenburg, RPI
-- Frank Ritter, Pennsylvania State University
-- Vasanth Sarathy, SIFT LLC
+- Keith McGreggor, Georgia Institute of Technology
+- Marjorie McShane, Rensselaer Polytechnic Institute
+- Andrew Nuxoll, University of Portland
+- Eugene Philalithis, The University of Edinburgh
+- Wiktor Piotrowski, Palo Alto Research Center
+- Irina Rabkina, Occidental College
+- Mark Roberts, U.S. Naval Research Laboratory
+- Mei Si, Rensselaer Polytechnic Institute
 - Mohan Sridharan, University of Birmingham
-- Gheorge Tecuci, George Mason University
+- John Tsotsos, York University
+- Andrew Vold, Tempus Labs
 - Tom Williams, Colorado School of Mines
+- Robert Wray, Center for Integrated Cognition
+- Ben Wright, Northeastern University
+
