@@ -31,7 +31,7 @@ We are pleased to announce the following invited talks:
     **Abstract:**  
     <br><br>
     
-
+<!--
 **1:45 PM EST: <span id="panel"> Panel Discussion: Research Directions for Cognitive Systems</span>**
 <table style="border-style: none; top-margin:-10px; border-spacing: 0px">
 <tr style="border-style: none"> <td width=30px style="border-style: none"></td>
@@ -44,7 +44,7 @@ We are pleased to announce the following invited talks:
 <li><a href="https://laird.engin.umich.edu/">John Laird, University of Michigan</a></li>
 <li>Moderator: <a href="https://www.smith.edu/academics/faculty/jamie-macbeth">Jaime Macbeth, Smith College</a></li>
 </ul></td></tr></table>
-
+-->
 
 
 <!-- - _Cognitive Systems Pedagogy_: An overview of the workshop moderated by Tom Williams. -->
