@@ -2,7 +2,7 @@
 const paperMap = {}
 
 function processPapers(data) {
-  console.log('papers-in-sessions:', data)
+  console.log('papers:', data)
   const rowObjs = $.csv.toObjects(data)
   console.log('row objs:', rowObjs)
 

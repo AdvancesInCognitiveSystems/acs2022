@@ -1,7 +1,10 @@
 ---
-layout: page
-title: Schedule
-permalink: /schedule-old/
+layout: day
+supertitle: Schedule
+permalink: /schedule/
 ---
 
-The preliminary schedule for ACS 2020 can be found at [here](https://github.com/AdvancesInCognitiveSystems/acs/raw/master/data/ACS-2020%20Conference%20Program.pdf)
+Select one of the days above to view that day's activities.
+
+<a href="{{site.baseurl}}/data/ACS21-schedule.pdf">Download a PDF version
+of the schedule HERE.</a>
