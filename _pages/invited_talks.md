@@ -6,29 +6,40 @@ permalink: /talks/
 
 We are pleased to announce the following invited talks:
 
-
-- **Day 1:**<br><span id="Talk1"></span>
-    **11:00 AM EST**:  [Speaker One]]({{ site.baseurl }}/speakers/speaker_one) -- [TITLE](https://speaker_url/)_
- **Title:** TBD   
-    **Abstract:**  
-    <br><br>
-    
-- **Day 2:**<br><span id="HSPTalk"></span>
-** 9:00 AM EST: (Herbert A. Simon Prize Talk)** [Anthony Cohn]({{ site.baseurl }}/speakers/Anthony_Cohn) --  [Professor of Automated Reasoning, University of Leeds](https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp)  
-    **Title:** TBD
+<!---  - **Sunday** --->
+  - <span id= "Cohn_talk"> <!--- **9:00 AM EST: ** --->
+**Herbert A. Simon Prize Talk:** [Anthony Cohn]({{
+ site.baseurl }}/speakers/Anthony_Cohn) --  [Professor of Automated
+ Reasoning, University of
+ Leeds](https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp) </span>   
+    **Title:** TBD   
     **Abstract:** 
 
-  <span id="Talk2"></span>
-    **11:00 AM EST**:  [Speaker Two]]({{ site.baseurl }}/speakers/speaker_one) -- [TITLE](https://speaker_url/)_
- **Title:** TBD   
-    **Abstract:**  
+
+<!--- - **Saturday** --->
+  - <span id="Si_talk"><!--- ** 11:00 AM EST: ** --->
+     [Mei Si](https://faculty.rpi.edu/mei-si) -- Associate Professor, Cognitive Science Department, Rensselaer Polytechnic Institute</span>  <br>
+    **Title:** TBD   
+    **Abstract:** 
     <br><br>
     
-  - **Day 3:**<br>
-  <span id="Talk3"></span>
-    **11:00 AM EST**:  [Speaker Three]]({{ site.baseurl }}/speakers/speaker_three) -- [TITLE](https://speaker_url/)_
- **Title:** TBD   
-    **Abstract:**  
+
+  
+  - <span id="Byrne_talk"> <!--- **11:00 AM EST:** ---> 
+  [Ruth Byrne](https://www.tcd.ie/research/profiles/?profile=rmbyrne),
+  Professor of Cognitive Science, Psychology, Trinity Inst. of
+  Neurosciences (TCIN) </span><br>
+    **Title:** TBD   
+    **Abstract:**   
+    <br><br>
+    
+<!---- **Monday:**<br>        --->    
+  - <span id="Lenat_talk"> 
+   <!--- **11:00 AM EST**: --> [Doug
+   Lenat](https://cyc.com/leadership-team/), </span> CEO, [CYCORP](https://cycorp.com) <br>
+    **Title:** Computers versus Common Sense   
+    **Abstract:**     [(See also the Cyc website)]( https://en.wikipedia.org/wiki/Cyc)<br>
+  Almost everyone who talks about Artificial Intelligence, nowadays, means training deep neural nets on big data.  Developing and using those patterns is a lot like the cognition historically attributed to our right brain hemispheres; it enables AI's to react quickly and -- very often -- adequately.  But we human beings also make good use of the sort of cognition historically attributed to our left brain hemisphere, reasoning slowly, logically, and causally.   I will discuss this "other type of AI"-- i.e., symbolic AI, which comprises a formal representation language, a "seed" knowledge base with hand-engineered default rules of common sense and domain knowledge written in that language, and an inference engine capable of producing hundreds-deep chains of deduction, induction, and abduction on that large knowledge base.  I will describe the largest such platform, Cyc, a few commercial applications that were produced just by educating it as one might teach a new human employee, and give a short demo.   We've made a lot of mistakes, and learned a lot of lessons, in the last four decades, in trying to get such an AI to operate on without having to compromise on speed or on the expressiveness of its representation.  But it is important to remember that human beings' "super-power" is our ability to harness both types of reasoning, and I believe that the most powerful AI solutions in the coming decade will likewise be hybrids of the two.  That is the only path I see by which we will overcome the current dangerous inability of deep-learning AI's to understand and explain their decisions, and will make AI's far more trusted and -- more importantly -- far more trustworthy.
     <br><br>
     
 <!--
