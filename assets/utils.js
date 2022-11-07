@@ -6,13 +6,15 @@ function processPapers(data) {
   const rowObjs = $.csv.toObjects(data)
   console.log('row objs:', rowObjs)
 
-  for (const rowObj of rowObjs) {
-    const rowNum = rowObj['#']
-    if (parseInt(rowNum)) {
-      paperMap[rowNum] = rowObj
-    }
-  }
-  console.log('paperMap', paperMap)
+//  for (const rowObj of rowObjs) {
+//    const rowNum = rowObj['#']
+//    if (parseInt(rowNum)) {
+//      paperMap[rowNum] = rowObj
+//    }
+//  }
+
+//  console.log('paperMap', paperMap)
+
 }
 
 function slackChannel(paperNum) {
