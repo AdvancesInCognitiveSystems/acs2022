@@ -24,14 +24,16 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 <th> Description </th>
 </tr>
 <tr>
-<td> <span class="schedtime"> 9:00 AM - 9:15 AM </span></td>
-<td>  <b> Welcome and Logistics </b> - Jaime MacBeth </td>
+<td> <span class="schedtime"> 1:00 PM - 1:15 PM </span></td>
+<td>  <b> Welcome and Logistics </b> - Jamie Macbeth </td>
 </tr>
 
 <tr>
-  <td id="session1"> <span class="schedtime"> 9:15 AM - 10:45 PM </span></td><td> <b> Session 1 </b>
+  <td id="session1"> <span class="schedtime"> 1:15 PM - 2:45 PM </span></td><td> <b> Session 1 </b>
 <!-- ###### Chaired by TBD -->
-<!--
+
+<!-- format from 2021, will we have slides? -->
+  <!--
 
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_6.pdf">An Analysis and
@@ -46,15 +48,39 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
   </ol>
 -->
 
+  <ol>
+   <li> <a href="{{site.baseurl}}/data/ACS-22_paper_9367.pdf">Sravya Kondrakunta, Venkatsampath Raja Gogineni and Michael Cox, Agent Goal Management using Goal Operations</a> - (L)</li>
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_8679.pdf">Will Bridewell, Taking the Intentional Stance Seriously: A Guide to Progress in Artificial Intelligence</a> - (L)</li>
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_4252.pdf">Aaron Stockdill, Grecia Garcia Garcia, Peter Cheng, Daniel Raggi and Mateja Jamnik, Cognitive Modeling of Interpretations of Representations</a> - (L)</li>
+  </ol>
+  
   </td>
 </tr>
 <tr>
-  <td> <span class="schedtime"> 10:45 AM - 11:00 AM </span></td>
+  <td> <span class="schedtime"> 2:45 PM - 3:15 PM </span></td>
   <td>  <b> Break</b> </td>
 </tr>
 <tr>
-  <td> <span class="schedtime"> 11:00 PM - 12:00 PM </span></td>
+  <td id="session2"> <span class="schedtime"> 3:15 PM - 3:45 PM </span></td><td> <b> Session 2 </b>
+<!-- ###### Chaired by TBD -->
+
+  <ol>
+   <li> <a href="{{site.baseurl}}/data/ACS-22_paper_396.pdf">Pat Langley and Edward Katz, Motion Planning and Continuous Control in a Unified Cognitive Architecture</a> - (short)</li>
+   <li> <a href="{{site.baseurl}}/data/ACS-22_paper_9776.pdf">Christopher Geib, Denson George, Baber Khalid, Richard Magnotti and Matthew Stone, An Integrated Architecture for Common Ground in Collaboration</a> - (short)</li>
+  </ol>
+  
+  </td>
+</tr>
+
+<tr>
+  <td> <span class="schedtime"> 3:45 PM - 4:30 PM </span></td>
   <td> <b>  Invited talk - TBD</b>
+
+<a href="{{site.baseurl}}/speakers/mei_si/"> Mei Si</a>   </b><br>
+<a href="https://faculty.rpi.edu/mei-si">Rensselaer Polytechnic Institute</a><br>
+<a href="{{site.baseurl}}/talks/#mei_si">Title: TBA</a> 
+    
+<!-- Invited talk example from last year -->
 <!--
 <a href="{{site.baseurl}}/speakers/gerd_gigerenzer/"> Gerd
 Gigerenzer</a>   </b><br>
@@ -71,80 +97,28 @@ the Harding Center for Risk Literacy, University of Potsdam</a><br>
   </td>
 </tr>
 <tr>
-  <td> <span class="schedtime"> 12:00 PM - 1:30 PM </span></td>
-  <td>  <b> Lunch</b> </td>
+  <td> <span class="schedtime"> 4:30 PM - 4:45 PM </span></td>
+  <td>  <b> Break and Poster Setup</b> </td>
 </tr>
 <tr>
-  <td id="session2"> <span class="schedtime"> 1:30 PM - 3:00 PM </span></td><td> <b> Session 2 </b>
+  <td id="session2"> <span class="schedtime"> 4:45 PM - 6:30 PM </span></td><td> <b> Poster Session and Reception </b>
 <!-- ###### Chaired by TBD -->
 
-<!--
-
   <ol>
-   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_14.pdf">Scales and
-  Hedges in a Logic with Analogous Semantics</a> - <a href="{{site.baseurl}}/data/slides/paper14-slides-schmidtke.pdf">(S)</a>, H.R.Schmidtke and
-  S. Coelho.<a onClick="goToSlackChannel(14)"> (on Slack #paper14-schmidtke)</a></li>
-   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_28.pdf">Hierarchical
-  Problem Networks for Knowledge-Based Planning</a> - <a href="{{site.baseurl}}/data/slides/paper28-slides-langley-shrobe.pdf">(S)</a>, Pat Langley and Howard Shrobe <a onClick="goToSlackChannel(28)"> (on Slack #paper28-langley)</a></li>
+   <li> <a href="{{site.baseurl}}/data/ACS-22_paper_168.pdf">Robert L. Kirby, Knowledge Representation Integrating Conditional Probabilities, Context Logic, and Primitives </a> - (poster, I)</li>
+   <li> <a href="{{site.baseurl}}/data/ACS-22_paper_757.pdf">	Christopher Geib, Jeffrey Rye and Vasanth Sarathy, Portals and Spaces: An Egocentric Knowledge Representation for Reasoning About Actions and its Implementation </a> - (poster, I)</li>
+   <li> <a href="{{site.baseurl}}/data/ACS-22_paper_1019.pdf">Jacob Morosco and Yuchou Chang, Visual Inference Using Homology of Human and Machine Vision Systems</a> - (poster, I)</li>
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_1124.pdf">Venkatsampath Raja Gogineni, Sravya Kondrakunta and Michael Cox, Multi-agent Goal Delegation Using Theory of Mind</a> - (poster, I)</li>
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_1545.pdf">Dustin Dannenhauer, Noah Reifsnyder, Aj Regester and Matthew Molineaux, Transforming Environments to Evaluate Agent Adaptation</a> - (poster, I)</li>
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_1568.pdf">David Sekora, Addressing the Scaling Problem for Embodied Symbolic Reasoning</a> - (poster, I)</li>
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_1694.pdf">Alex Arnold and Jeff Heflin, Learning a More Efficient Backward-Chaining Reasoner</a> - (poster, I)</li>
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_1217.pdf">Jamie Macbeth, Alexis Kilayko, Megan McKenzie, Matt Klenk, Scott Carter and Kate Sieck, Script Combination for Enhanced Story Understanding and Story Generation Systems</a> - (poster, V)</li>
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_3723.pdf">James Kirk, Robert Wray, Peter Lindes and John Laird, Improving Language Model Prompting in Support of Semi-autonomous Task Learning</a> - (poster, V)</li>
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_9282.pdf">Sungeun An, Jennifer Hammock, Spencer Rugaber and Ashok Goel, Contextualized Access to Large-Scale Domain Knowledge for Qualitative Modeling</a> - (poster, V)</li>  
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_7339.pdf">Andrew Nuxoll, Braeden Lane, Connor Morgan, Kai Vickers and Max Woods, Towards an Artificial, General Episodic Memory via Learning in Noisy, Perceptually-Aliased Environments</a> - (poster, ?)</li>    
   </ol>
--->
-
+  
   </td>
-</tr>
-<tr>
-  <td> <span class="schedtime"> 3:00 PM - 3:15 PM </span></td>
-  <td>  <b> Break</b> </td>
-</tr>
-<tr>
-  <td id="session3"> <span class="schedtime"> 3:15 PM - 4:45 PM </span></td><td> <b> Session 3 (Short Talks)</b>
-    <div class=shortnote>Short talks are 10 minutes plus 2 minutes for
-    questions during changeover.</div> 
-<!-- ###### Chaired by TBD -->
-
-<!--
-
-  <ol>
-  <li> <a href="{{site.baseurl}}/data/ACS-21_paper_20.pdf">Signature
-  Entrenchment and Conceptual Changes in Automated Theory Repair</a> - <a href="{{site.baseurl}}/data/slides/paper20-slides-li.pdf">(S)</a>,
-   Xue Li, Alan Bundy and Eugene Philalithis<a onClick="goToSlackChannel(20)"> (on Slack #paper20-li)</a></li>
-  <li> <a href="{{site.baseurl}}/data/ACS-21_paper_16.pdf">Operationalizing
-  Tactical Representations</a> - <a href="{{site.baseurl}}/data/slides/paper16-slides-hinrichs.pdf">(S)</a>,
-   Thomas Hinrichs and Kenneth Forbus.  <a onClick="goToSlackChannel(16)"> (on Slack #paper16-hinrichs)</a></li>
-  <li> <a href="{{site.baseurl}}/data/ACS-21_paper_21.pdf">From
-  Unstructured Text to Causal Knowledge Graphs: A Transformer-Based
-  Approach</a> - <a href="{{site.baseurl}}/data/slides/paper21-slides-friedman.pdf">(S)</a>,
-   Scott Friedman, Ian Magnususon, Vasanth Sarathy and Sonja Schmer-Galunder.
-   <a onClick="goToSlackChannel(21)"> (on Slack #paper21-friedman)</a></li>
-  </ol>
-
--->
-
-  </td>
-</tr>
-<tr>
-  <td> <span class="schedtime"> 4:45 PM - 5:00 PM </span></td>
-  <td>  <b> Break</b> </td>
-</tr>
-<tr>
-  <td> <span class="schedtime"> 5:00 PM - 7:00 PM </span></td>
-  <td>  <!-- <b> Break (with a Breakout Room for each short talk) </b> -->
-    <b> Poster session and Reception
-
-<!--
-  <ol>
-
-   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_35.pdf">OpenMIND: Planning and
-  Adapting in Domains with Novelty</a> - <a href="{{site.baseurl}}/data/slides/paper35-slides-musliner.pdf">(S)</a>,  D. Musliner, M. Pelican, M. McLure, S. Johnston, R. Freedman and C. Knutson<a onClick="goToSlackChannel(35)"> (on Slack #paper35-musliner)</a></li>
-
-<li> <a href="{{site.baseurl}}/data/ACS-21_paper_17.pdf">Learning Norms via
-Natural Language Teachings</a> - <a href="{{site.baseurl}}/data/slides/paper17-slides-olson-forbus.pdf">(S)</a>, Taylor Olson and Ken Forbus. <a
-onClick="goToSlackChannel(17)"> (on Slack #paper17-olson)</a></li>
-    
-</ol>
--->
-
-   </td>
-   
 </tr>
 
 </table>
