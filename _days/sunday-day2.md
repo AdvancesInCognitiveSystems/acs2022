@@ -62,28 +62,42 @@ href="{{site.baseurl}}/speakers/Anthony_Cohn/"> Anthony Cohn</a> </b><br>
  </td></tr>
  
  <tr>
-  <td> <span class="schedtime"> 12:05 PM - 1:30 PM </span></td>
+  <td> <span class="schedtime"> 12:05 PM - 1:00 PM </span></td>
   <td>  <b> Lunch</b> </td>
 </tr>
  
 <tr> 
-   <td> <span class="schedtime"> 1:30 PM - 3:00 PM </span></td> 
-   <td id="session4">  <b> Session 4</b>
-   <!-- talks go here-->
-
+   <td> <span class="schedtime"> 1:00 PM - 3:00 PM </span></td> 
+   <td id="session4">  <b> Session 4 (Long and Short Talks) </b>
+     <ol>
+     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_2537.pdf">Christopher Maclellan, Peter Matsakis and Pat Langley, Efficient Induction of Language Models Via Probabilistic Concept Formation</a> - (Long, V)</li>
+     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_7038.pdf">Vasanth Sarathy, Mark Burstein, Scott Friedman, Robert Bobrow and Ugur Kuter, A Neuro-Symbolic Cognitive System for Intuitive Argumentation</a> - (Long, I)</li>
+     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_8878.pdf">Jason Wilson, Lissangel Martinez and Irina Rabkina, Deductive Reasoning with Incomplete Knowledge via Repeated Analogies</a> - (Short, I)</li>
+     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_2091.pdf">Pablo Gervás, A Discourse Interpretation Engine Sensitive to Truth Revisions in a Story</a> - (Short, I)</li>
+     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_7803.pdf">Constantine Nakos, Mukundan Kuthalam and Kenneth Forbus, A Framework for Interactive Natural Language Debugging</a> - (Short, I)</li>
+     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_9358.pdf">Jamie Macbeth, Alexis Kilayko, Matthew Klenk, Scott Carter, Katharine Sieck, Zoie Zhao, Jingwen Xiang, Megan McKenzie and Mackie Zhou, Interleaving a Symbolic Story Generator with a Neural Network-Based Large Language Model</a> - (Short, I)</li>
+     </ol>
    </td> 
 </tr>
 
-<tr> <td> <span class="schedtime"> 3:00 PM - 3:15 PM </span></td> <td> <b> Break</b> </td></tr>
+<tr> <td> <span class="schedtime"> 3:00 PM - 3:30 PM </span></td> <td> <b> Break</b> </td></tr>
 
-
-<tr>
-<td  id="session5"> <span class="schedtime"> 3:15 PM - 4:45 PM </span></td>
-<td> <b> Session 5 (short talks) </b>
-
-  <div class=shortnote>Short talks are 10 minutes plus 2 minutes for questions during changeover.</div>
-<!-- ###### Chaired by TBD -->
-<!--
+<tr> 
+   <td> <span class="schedtime"> 3:30 PM - 3:00 PM </span></td> 
+   <td id="session4">  <b> Session 5 (Short Talks) </b>
+   <!--  <div class=shortnote>Short talks are 10 minutes plus 2 minutes for questions during changeover.</div> -->
+   <!-- ###### Chaired by TBD -->     
+     <ol>
+     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_2537.pdf">Christopher Maclellan, Peter Matsakis and Pat Langley, Efficient Induction of Language Models Via Probabilistic Concept Formation</a> - (Long, V)</li>
+     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_7038.pdf">Vasanth Sarathy, Mark Burstein, Scott Friedman, Robert Bobrow and Ugur Kuter, A Neuro-Symbolic Cognitive System for Intuitive Argumentation</a> - (Long, I)</li>
+     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_8878.pdf">Jason Wilson, Lissangel Martinez and Irina Rabkina, Deductive Reasoning with Incomplete Knowledge via Repeated Analogies</a> - (Short, I)</li>
+     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_2091.pdf">Pablo Gervás, A Discourse Interpretation Engine Sensitive to Truth Revisions in a Story</a> - (Short, I)</li>
+     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_7803.pdf">Constantine Nakos, Mukundan Kuthalam and Kenneth Forbus, A Framework for Interactive Natural Language Debugging</a> - (Short, I)</li>
+     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_9358.pdf">Jamie Macbeth, Alexis Kilayko, Matthew Klenk, Scott Carter, Katharine Sieck, Zoie Zhao, Jingwen Xiang, Megan McKenzie and Mackie Zhou, Interleaving a Symbolic Story Generator with a Neural Network-Based Large Language Model</a> - (Short, I)</li>
+     </ol>
+        
+ <!-- More examples from 2021 -->       
+ <!--
 
  <ol>
   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_5.pdf">Language
@@ -111,13 +125,12 @@ href="{{site.baseurl}}/speakers/Anthony_Cohn/"> Anthony Cohn</a> </b><br>
   </ol>
 -->
 
-  </td>
+   </td> 
 </tr>
-<tr>
-  <td> <span class="schedtime">  4:45 PM - 5:00 PM </span></td>
-  <td>  <b> Break (with a Breakout Room for each short talk) </b>
-  </td>
-  </tr>
+
+<tr> <td> <span class="schedtime"> 11:00 PM - 11:05 PM </span></td> <td>
+<b> Community Discussion </b></td>
+</tr>
 
 </table>
 
