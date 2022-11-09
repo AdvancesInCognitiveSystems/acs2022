@@ -66,7 +66,8 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_396.pdf">Pat Langley and Edward Katz, Motion Planning and Continuous Control in a Unified Cognitive Architecture</a> - (short)</li>
-   <li> <a href="{{site.baseurl}}/data/ACS-22_paper_9776.pdf">Christopher Geib, Denson George, Baber Khalid, Richard Magnotti and Matthew Stone, An Integrated Architecture for Common Ground in Collaboration</a> - (short)</li>
+    <!-- Nikhil Krishnaswamy.  "I will be attending remotely, but Sadaf is planning to be there in person.  We will share the presentation of our paper.  However, I am giving a virtual tutorial at AACL on November 20th.  I'm not sure what time of day I need to be at that, but it will be 3 hours, so I would request that our talk at ACS not be scheduled on November 20." -->
+   <li> <a href="{{site.baseurl}}/data/ACS-22_paper_3157.pdf">Nikhil Krishnaswamy and Sadaf Ghaffari, Detecting and Accommodating Novel Types and Concepts in an Embodied Simulation Environment</a> - (short)</li>
   </ol>
   
   </td>
