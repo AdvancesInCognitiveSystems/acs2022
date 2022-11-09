@@ -75,9 +75,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 
 <tr>
   <td> <span class="schedtime"> 3:45 PM - 4:30 PM </span></td>
-  <td> <b>  Invited talk - TBD</b>
-
-<a href="{{site.baseurl}}/speakers/mei_si/"> Mei Si</a>   </b><br>
+  <td> <b>  Invited talk - <a href="{{site.baseurl}}/speakers/mei_si/"> Mei Si</a>   </b><br>
 <a href="https://faculty.rpi.edu/mei-si">Rensselaer Polytechnic Institute</a><br>
 <a href="{{site.baseurl}}/talks/#mei_si">Title: TBA</a> 
     
