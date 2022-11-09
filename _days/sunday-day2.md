@@ -23,24 +23,21 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 <th> Description </th>
 </tr>
 <tr>
-  <td id="session4"> <span class="schedtime"> 9:00 AM - 10:45 AM </span></td><td> <b> Session 4 </b>
-<!--
-
-<b>  Invited talk - <a href="{{site.baseurl}}/speakers/ute_schmid/">Ute Schmid</a> </b><br>
-<a href="https://www.uni-bamberg.de/en/cogsys/schmid/">Head of the Cognitive Systems Group, University of Bamberg</a>
-<br><a href="{{site.baseurl}}/talks/#schmid">Reconciling knowledge-based and data-driven AI for human-in-the-loop
-  machine learning</a>  - <a
-  href="{{site.baseurl}}/data/slides/invited-schmid-slides.pdf">(S)</a><a
-  onClick="goToSlackChannel(103)"> (on Slack #invited103-schmid)</a>
-  or <a
- href="https://www.youtube.com/watch?v=QoC3th7roi4&list=PL-1wKlUbAzGSdwkBuFJhELkCQ6Hz9u60C&index=2">View
- on YouTube</a>
- 
- -->
+<td> <span class="schedtime"> 9:00 AM - 9:05 AM </span></td>
+<td>  <b> Local Chair's Welcome </b> - Mihai Boicu </td>
+</tr>
+<tr>
+  <td id="session3"> <span class="schedtime"> 9:05 AM - 10:35 AM </span></td><td> <b> Session 3 </b>
+   <ol>
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_1295.pdf">Joseph Blass and Kenneth Forbus, Conclusion-Verified Analogical Schema Induction</a> - (Long, I)</li>
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_8017.pdf">Derek Martin and Arnav Jhala, Dynamic Discounting in Decision-Making</a> - (Long, I)</li>
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_5758.pdf">Claire Yin, Pedro Colon-Hernandez and Henry Lieberman, Getting Help from the Neighborhood: Local Semantic Averaging for Commonsense Inference in Language Models</a> - (Long, I)</li>
+   </ol>
+     
   </td>
   </tr>
 <tr>
-  <td> <span class="schedtime"> 10:45 AM - 11:00 AM </span></td>
+  <td> <span class="schedtime"> 10:35 AM - 11:00 AM </span></td>
   <td>  <b> Break</b> </td>
 </tr>
 <tr> <td> <span class="schedtime"> 11:00 PM - 11:05 PM </span></td> <td>
@@ -71,7 +68,7 @@ href="{{site.baseurl}}/speakers/Anthony_Cohn/"> Anthony Cohn</a> </b><br>
  
 <tr> 
    <td> <span class="schedtime"> 1:30 PM - 3:00 PM </span></td> 
-   <td id="session5">  <b> Session 5</b>
+   <td id="session4">  <b> Session 4</b>
    <!-- talks go here-->
 
    </td> 
@@ -81,8 +78,8 @@ href="{{site.baseurl}}/speakers/Anthony_Cohn/"> Anthony Cohn</a> </b><br>
 
 
 <tr>
-<td  id="session6"> <span class="schedtime"> 3:15 PM - 4:45 PM </span></td>
-<td> <b> Session 6 (short talks) </b>
+<td  id="session5"> <span class="schedtime"> 3:15 PM - 4:45 PM </span></td>
+<td> <b> Session 5 (short talks) </b>
 
   <div class=shortnote>Short talks are 10 minutes plus 2 minutes for questions during changeover.</div>
 <!-- ###### Chaired by TBD -->
