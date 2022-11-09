@@ -64,7 +64,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
   
 <tr>
   <td> <span class="schedtime"> 11:15 PM - 12:00 PM </span></td>
-  <td> <b>  Invited talk </b>
+  <td> <b>  Invited talk -
 <a href="{{site.baseurl}}/speakers/mei_si/"> Ruth Byrne </a> </b><br>
 <a href="https://faculty.rpi.edu/mei-si">Trinity College Dublin, University of Dublin, Ireland</a><br>
 <a href="{{site.baseurl}}/talks/#mei_si">Title: How People Reason about Counterfactual Explanations </a> 
@@ -91,7 +91,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 
 <tr>
   <td> <span class="schedtime"> 2:15 PM - 3:00 PM </span></td>
-  <td> <b>  Invited talk </b>
+  <td> <b>  Invited talk - 
 <a href="{{site.baseurl}}/speakers/mei_si/"> Doug Lenat </a> </b><br>
 <a href="https://faculty.rpi.edu/mei-si">CEO Cycorp</a><br>
 <a href="{{site.baseurl}}/talks/#mei_si">Title: "Computers versus Common Sense"</a> 
