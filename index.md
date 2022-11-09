@@ -7,7 +7,7 @@ The **Tenth Advances in Cognitive Systems (ACS) Conference** will be held virtua
 
 *****Registration is now open *****
 
-In-person attendance ($300 fee) and virtual speaker registration ($175) [Go here](http://www.cogsys.org/conference/2022/registration.html)
+In-person attendance ($350 fee) and virtual speaker registration ($100) [Go here](http://www.cogsys.org/conference/2022/registration.html)
 
 For virtual attendance registration (no fee) [Go here](https://docs.google.com/forms/d/e/1FAIpQLSdxlvtW95NiuozTaVz3Ie0Hbydmn-eCHnxKLGGAnPFa-alqBg/viewform?usp=sf_link)
 
