@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-The **Tenth Advances in Cognitive Systems (ACS) Conference** will be held virtually **November 19-22, 2022**.
+The **Tenth Advances in Cognitive Systems (ACS) Conference** will be held **November 19-22, 2022**.
 
 *****Registration is now open *****
 
