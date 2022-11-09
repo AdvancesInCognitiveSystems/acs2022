@@ -83,17 +83,15 @@ href="{{site.baseurl}}/speakers/Anthony_Cohn/"> Anthony Cohn</a> </b><br>
 <tr> <td> <span class="schedtime"> 3:00 PM - 3:30 PM </span></td> <td> <b> Break</b> </td></tr>
 
 <tr> 
-   <td> <span class="schedtime"> 3:30 PM - 3:00 PM </span></td> 
+   <td> <span class="schedtime"> 3:30 PM - 4:30 PM </span></td> 
    <td id="session4">  <b> Session 5 (Short Talks) </b>
    <!--  <div class=shortnote>Short talks are 10 minutes plus 2 minutes for questions during changeover.</div> -->
    <!-- ###### Chaired by TBD -->     
      <ol>
-     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_2537.pdf">Christopher Maclellan, Peter Matsakis and Pat Langley, Efficient Induction of Language Models Via Probabilistic Concept Formation</a> - (Long, V)</li>
-     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_7038.pdf">Vasanth Sarathy, Mark Burstein, Scott Friedman, Robert Bobrow and Ugur Kuter, A Neuro-Symbolic Cognitive System for Intuitive Argumentation</a> - (Long, I)</li>
-     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_8878.pdf">Jason Wilson, Lissangel Martinez and Irina Rabkina, Deductive Reasoning with Incomplete Knowledge via Repeated Analogies</a> - (Short, I)</li>
-     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_2091.pdf">Pablo Gervás, A Discourse Interpretation Engine Sensitive to Truth Revisions in a Story</a> - (Short, I)</li>
-     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_7803.pdf">Constantine Nakos, Mukundan Kuthalam and Kenneth Forbus, A Framework for Interactive Natural Language Debugging</a> - (Short, I)</li>
-     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_9358.pdf">Jamie Macbeth, Alexis Kilayko, Matthew Klenk, Scott Carter, Katharine Sieck, Zoie Zhao, Jingwen Xiang, Megan McKenzie and Mackie Zhou, Interleaving a Symbolic Story Generator with a Neural Network-Based Large Language Model</a> - (Short, I)</li>
+     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_301.pdf">Justin Brody and Don Perlis, Diasynchronic Logic</a> - (Short, I)</li>
+     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_9776.pdf">Christopher Geib, Denson George, Baber Khalid, Richard Magnotti and Matthew Stone, An Integrated Architecture for Common Ground in Collaboration</a> - (Short, I)</li>
+     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_6940.pdf">Adam Amos-Binks and Leilani Gilpin, Anticipatory Thinking Assessment: Stress tests using synthetic data</a> - (Short, I)</li>
+     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_7677.pdf">Morgan Fine-Morris, Michael Floyd, Bryan Auslander, Greg Pennisi, Kalyan Gupta, Mark Roberts, Jeff Heflin and Hector Munoz-Avila Learning, Decomposition Methods with Numeric Landmarks</a> - (Short, ?)</li>
      </ol>
         
  <!-- More examples from 2021 -->       
@@ -107,28 +105,13 @@ href="{{site.baseurl}}/speakers/Anthony_Cohn/"> Anthony Cohn</a> </b><br>
   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_7.pdf">Physical
   Reasoning in an Open World</a> - <a href="{{site.baseurl}}/data/slides/paper07-slides-zeng-davis.pdf">(S)</a>,
   Zhuoran Zeng and Ernest Davis. <a onClick="goToSlackChannel(7)"> (on Slack #paper07-zeng)</a></li>
-  <li> <a href="{{site.baseurl}}/data/ACS-21_paper_18.pdf">Task Modifiers
-  for HTN Planning and Acting</a> - <a href="{{site.baseurl}}/data/slides/paper18-slides-yuan.pdf">(S)</a>,
-  W. Yuan, H. Munoz-Avila, V.R.Gogineni, S. Kondrakunta, M. Cox and L. He. <a onClick="goToSlackChannel(18)"> (on Slack #paper18-yuan)</a></li>
-
-   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_23.pdf">Finding Trolls
-   Under Bridges: Preliminary Work on a Motif Detector</a> - <a href="{{site.baseurl}}/data/slides/paper23-slides-yarlott.pdf">(S)</a>,
-   W.V. Yarlott, A. Ochoa, A. Acharya, L. Bobrow, D. C. Estrada, D. Gomez,
-   J. Zheng, D. McDonald, C. Miller and M. A. Finlayson<a onClick="goToSlackChannel(23)"> (on Slack #paper23-yarlott)</a></li>
-   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_10.pdf">Lensing
-   Machines: Representing Perspective in Latent Variable Models</a> - <a href="{{site.baseurl}}/data/slides/paper10-slides-kinakar-liberman.pdf">(S)</a>, Karthik Dinakar and Henry Lieberman. <a onClick="goToSlackChannel(10)"> (on Slack #paper10-dinakar)</a></li>
-  <li> <a href="{{site.baseurl}}/data/ACS-21_paper_22.pdf">An explainability analysis of a
-   sentiment prediction task using a transformer-based attention
-   filter</a> - <a href="{{site.baseurl}}/data/slides/paper22-slides-tan.pdf">(S)</a>, Neşet Özkan Tan, Joshua Bensemann, Diana Benavides-Prado,
-   Yang Chen, Mark Gahegan, Lia Lee, Alex Yuxuan Peng, Patricia Riddle and
-   Michael Witbrock. <a onClick="goToSlackChannel(22)"> (on Slack #paper22-tan)</a></li>
   </ol>
 -->
 
    </td> 
 </tr>
 
-<tr> <td> <span class="schedtime"> 11:00 PM - 11:05 PM </span></td> <td>
+<tr> <td> <span class="schedtime"> 4:30 PM - 5:30 PM </span></td> <td>
 <b> Community Discussion </b></td>
 </tr>
 
