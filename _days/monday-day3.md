@@ -24,8 +24,14 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 </tr>
 
 <tr>
-  <td id="session7"> <span class="schedtime"> 9:00 AM - 10:30 PM </span></td><td> <b> Session 7 </b>
+  <td id="session6"> <span class="schedtime"> 9:15 AM - 10:30 PM </span></td><td> <b> Session 6 </b>
 <!-- ###### Chaired by TBD -->
+   <ol>
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_238.pdf">Jumpei Nishikawa, Kazuma Nagashima, Ryo Yoneda, Junya Morita and Tetsuya Terada, Representing Motivation in a Simple Perceptual and Motor Coordination Task based on a Goal Activation Mechanism</a> - (Long, V)</li>
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_7652.pdf">Fangjun Li, David C. Hogg and Anthony G. Cohn, Ontology Knowledge-enhanced In-Context Learning for Action-Effect Prediction</a> - (Long, V)</li>
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_2603.pdf">Harsha Kokel, Mayukh Das, Rakibul Islam, Julia Bonn, Jon Cai, Soham Dan, Anjali Narayan-Chen, Prashant Jayannavar, Jana Doppa, Julia Hockenmaier, Sriraam Natarajan, Martha Palmer and Dan Roth, LARA – Human-guided collaborative problem solver: Effective integration of learning, reasoning and communication</a> - (Short, I)</li>
+   </ol>
+  
 <!--
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_6.pdf">An Analysis and
@@ -43,76 +49,65 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
   </td>
 </tr>
 <tr>
-  <td> <span class="schedtime"> 12:30 PM - 1:00 PM </span></td>
+  <td> <span class="schedtime"> 10:30 AM - 11:00 AM </span></td>
   <td>  <b> Break</b> </td>
 </tr>
+
 <tr>
-  <td> <span class="schedtime"> 1:00 PM - 1:45 PM </span></td>
-  <td> 
-   <b>  Invited talk - TBD </b> 
-<!--
-<a href="{{site.baseurl}}/speakers/gerd_gigerenzer/"> Gerd
-Gigerenzer</a>   </b><br>
-<a href="https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer">Director of
-the Harding Center for Risk Literacy, University of Potsdam</a><br>
-<a href="{{site.baseurl}}/talks/#gigerenzer">Psychological AI: Simplicity and Transparency in Prediction</a> 
-- <a href="{{site.baseurl}}/data/slides/invited-Gigerenzer-slides.pdf">(S)</a>
- <a onClick="goToSlackChannel(101)"> (on Slack #invited01-gigerenzer)</a>
- or <a
- href="https://www.youtube.com/watch?v=AYBFA2rUhrE&list=PL-1wKlUbAzGSdwkBuFJhELkCQ6Hz9u60C&index=4">View
- on YouTube</a>
--->
-
-
+  <td id="session7"> <span class="schedtime"> 11:00 AM - 11:15 AM </span></td><td> <b> Session 7 </b>
+<!-- ###### Chaired by TBD -->
+   <ol>
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_911.pdf">Caoimhe Harrington Stack, Sarah Myers, Effat Farhana, Aviv Roskes, Xinyu Shen, Simeng Zhao, Angela Maliakal, Roxanne Rashedi, Joel Michelson and Maithilee Kunda, Framework for a multi-dimensional test of theory of mind for humans and AI systems</a> - (Short, ?)</li>
+   </ol>
   </td>
 </tr>
-
-<tr>
-  <td id="session8"> <span class="schedtime"> 1:45 PM - 3:00PM </span></td><td> <b> Session 8 </b>
-<!-- ###### Chaired by TBD -->
-<!--
-  <ol>
-   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_14.pdf">Scales and
-  Hedges in a Logic with Analogous Semantics</a> - <a href="{{site.baseurl}}/data/slides/paper14-slides-schmidtke.pdf">(S)</a>, H.R.Schmidtke and
-  S. Coelho.<a onClick="goToSlackChannel(14)"> (on Slack #paper14-schmidtke)</a></li>
-   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_28.pdf">Hierarchical
-  Problem Networks for Knowledge-Based Planning</a> - <a href="{{site.baseurl}}/data/slides/paper28-slides-langley-shrobe.pdf">(S)</a>, Pat Langley and Howard Shrobe <a onClick="goToSlackChannel(28)"> (on Slack #paper28-langley)</a></li>
-  </ol>
-  -->
   
+<tr>
+  <td> <span class="schedtime"> 11:15 PM - 12:00 PM </span></td>
+  <td> <b>  Invited talk </b>
+<a href="{{site.baseurl}}/speakers/mei_si/"> Ruth Byrne </a> </b><br>
+<a href="https://faculty.rpi.edu/mei-si">Trinity College Dublin, University of Dublin, Ireland</a><br>
+<a href="{{site.baseurl}}/talks/#mei_si">Title: How People Reason about Counterfactual Explanations </a> 
+    
   </td>
 </tr>
+
 <tr>
-  <td> <span class="schedtime"> 3:00 PM - 3:15 PM </span></td>
+  <td> <span class="schedtime"> 12:00 PM - 1:30 PM </span></td>
+  <td>  <b> Lunch</b> </td>
+</tr>
+
+<tr>
+  <td id="session8"> <span class="schedtime"> 1:30 AM - 2:15 PM </span></td><td> <b> Session 8 </b>
+<!-- ###### Chaired by TBD -->
+   <ol>
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_5926.pdf">Matthew D. Goldberg and Donald Perlis, Real-Time Metacognition and Applications</a> - (Short, V)</li>
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_3588.pdf">Xue Li, Alan Bundy and Ruiqi Zhu, Benchmark based Vitality of Axioms and Preconditions for Datalog Theory Repair</a> - (Short, V)</li>
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_186.pdf">Aadhar Gupta, Mahavir Dabas, Shashank Uttrani and Varun Dutt, Learning from Single and Multi-human intelligence via Cognitive and Reinforcement Learning</a> - (Short, V)</li>
+   </ol>
+ 
+  </td>
+</tr>
+
+<tr>
+  <td> <span class="schedtime"> 2:15 PM - 3:00 PM </span></td>
+  <td> <b>  Invited talk </b>
+<a href="{{site.baseurl}}/speakers/mei_si/"> Doug Lenat </a> </b><br>
+<a href="https://faculty.rpi.edu/mei-si">CEO Cycorp</a><br>
+<a href="{{site.baseurl}}/talks/#mei_si">Title: "Computers versus Common Sense"</a> 
+    
+  </td>
+</tr>
+
+<tr>
+  <td> <span class="schedtime"> 3:00 PM - 3:30 PM </span></td>
   <td>  <b> Break</b> </td>
 </tr>
-<tr>
-  <td id="session9"> <span class="schedtime"> 3:15 PM - 4:30 PM </span></td><td> <b> Session 9 (Short Talks)</b>
-    <div class=shortnote>Short talks are 10 minutes plus 2 minutes for
-    questions during changeover.</div> 
-<!-- ###### Chaired by TBD -->
-<!--
-
-  <ol>
-  <li> <a href="{{site.baseurl}}/data/ACS-21_paper_20.pdf">Signature
-  Entrenchment and Conceptual Changes in Automated Theory Repair</a> - <a href="{{site.baseurl}}/data/slides/paper20-slides-li.pdf">(S)</a>,
-   Xue Li, Alan Bundy and Eugene Philalithis<a onClick="goToSlackChannel(20)"> (on Slack #paper20-li)</a></li>
-  <li> <a href="{{site.baseurl}}/data/ACS-21_paper_16.pdf">Operationalizing
-  Tactical Representations</a> - <a href="{{site.baseurl}}/data/slides/paper16-slides-hinrichs.pdf">(S)</a>,
-   Thomas Hinrichs and Kenneth Forbus.  <a onClick="goToSlackChannel(16)"> (on Slack #paper16-hinrichs)</a></li>
-  <li> <a href="{{site.baseurl}}/data/ACS-21_paper_21.pdf">From
-  Unstructured Text to Causal Knowledge Graphs: A Transformer-Based
-  Approach</a> - <a href="{{site.baseurl}}/data/slides/paper21-slides-friedman.pdf">(S)</a>,
-   Scott Friedman, Ian Magnususon, Vasanth Sarathy and Sonja Schmer-Galunder.
-   <a onClick="goToSlackChannel(21)"> (on Slack #paper21-friedman)</a></li>
-  </ol>
-  -->
-  </td>
-</tr>
 
 <tr>
-  <td> <span class="schedtime"> 4:30 PM - 5:00 PM </span></td>
-  <td>  <b> Break (with a Breakout Room for each short talk) </b> </td>
+  <td> <span class="schedtime"> 3:30 PM - 4:30 PM </span></td>
+  <td>  <b> Community Discussion</b> </td>
+  
 </tr>
 
 
