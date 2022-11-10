@@ -258,7 +258,8 @@ driven autonomy, autonomous agents, multi-agent systems
 
 <li>
 <p><a href="/acs2022/data/acs_paper-9282.pdf">
-Contextualized Access to Large-Scale Domain Knowledge for Qualitative Modeling</a><br />
+Contextualized Access to Large-Scale Domain Knowledge for Conceptual Modeling of Agent-Based Systems
+</a><br />
 Sungeun An, Jennifer Hammock, Spencer Rugaber and Ashok Goel<br />
 <b><i>Keywords:</i></b>  qualitative modeling, conceptual model,
 agent-based simulation, ecology, domain knowledge
