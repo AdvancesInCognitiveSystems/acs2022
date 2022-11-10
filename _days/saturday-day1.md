@@ -67,7 +67,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_396.pdf">Pat Langley and Edward Katz, Motion Planning and Continuous Control in a Unified Cognitive Architecture</a> - (Short, I)</li>
     <!-- Nikhil Krishnaswamy.  "I will be attending remotely, but Sadaf is planning to be there in person.  We will share the presentation of our paper.  However, I am giving a virtual tutorial at AACL on November 20th.  I'm not sure what time of day I need to be at that, but it will be 3 hours, so I would request that our talk at ACS not be scheduled on November 20." -->
-   <li> <a href="{{site.baseurl}}/data/ACS-22_paper_3157.pdf">Nikhil Krishnaswamy and Sadaf Ghaffari, Detecting and Accommodating Novel Types and Concepts in an Embodied Simulation Environment</a> - (Short, I)</li>
+   <li> <a href="{{site.baseurl}}/data/ACS-22_paper_3157.pdf">Sadaf Ghaffari and Nikhil Krishnaswamy, Detecting and Accommodating Novel Types and Concepts in an Embodied Simulation Environment</a> - (Short, I)</li>
   </ol>
   
   </td>

@@ -126,7 +126,7 @@ instance-based learning, ACT-R
 <li>
 <p><a href="/acs2022/data/acs_paper-3157.pdf">
 Detecting and Accommodating Novel Types and Concepts in an Embodied Simulation Environment</a><br />
-Nikhil Krishnaswamy and Sadaf Ghaffari<br />
+Sadaf Ghaffari and Nikhil Krishnaswam <br />
 <b><i>Keywords:</i></b>  metacog, embodied simulation, transfer learning,
 metacognition, voxml
 </p>
