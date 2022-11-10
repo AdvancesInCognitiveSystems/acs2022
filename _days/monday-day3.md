@@ -30,7 +30,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 
   
 <tr>
-  <td id="session6"> <span class="schedtime"> 9:15 AM - 10:30 PM </span></td><td> <b> Session 6 </b>
+  <td id="session6"> <span class="schedtime"> 9:15 AM - 10:30 AM </span></td><td> <b> Session 6 </b>
 <!-- ###### Chaired by TBD -->
    <ol>
     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_238.pdf">Jumpei Nishikawa, Kazuma Nagashima, Ryo Yoneda, Junya Morita and Tetsuya Terada, Representing Motivation in a Simple Perceptual and Motor Coordination Task based on a Goal Activation Mechanism</a> - (Long, V)</li>
