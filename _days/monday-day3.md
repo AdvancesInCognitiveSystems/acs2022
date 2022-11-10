@@ -29,7 +29,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
    <ol>
     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_238.pdf">Jumpei Nishikawa, Kazuma Nagashima, Ryo Yoneda, Junya Morita and Tetsuya Terada, Representing Motivation in a Simple Perceptual and Motor Coordination Task based on a Goal Activation Mechanism</a> - (Long, V)</li>
     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_7652.pdf">Fangjun Li, David C. Hogg and Anthony G. Cohn, Ontology Knowledge-enhanced In-Context Learning for Action-Effect Prediction</a> - (Long, V)</li>
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_2603.pdf">Harsha Kokel, Mayukh Das, Rakibul Islam, Julia Bonn, Jon Cai, Soham Dan, Anjali Narayan-Chen, Prashant Jayannavar, Jana Doppa, Julia Hockenmaier, Sriraam Natarajan, Martha Palmer and Dan Roth, LARA – Human-guided collaborative problem solver: Effective integration of learning, reasoning and communication</a> - (Short, I)</li>
+    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_2603.pdf">Harsha Kokel, Mayukh Das, Rakibul Islam, Julia Bonn, Jon Cai, Soham Dan, Anjali Narayan-Chen, Prashant Jayannavar, Jana Doppa, Julia Hockenmaier, Sriraam Natarajan, Martha Palmer and Dan Roth, LARA – Human-guided collaborative problem solver: Effective integration of learning, reasoning and communication</a> - (Short, V)</li>
    </ol>
   
 <!--
