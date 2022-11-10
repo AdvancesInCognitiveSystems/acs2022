@@ -104,7 +104,7 @@ the Harding Center for Risk Literacy, University of Potsdam</a><br>
 <!-- ###### Chaired by TBD -->
 
   <ol>
-   <li> <a href="{{site.baseurl}}/data/ACS-22_paper_168.pdf">Robert L. Kirby, Knowledge Representation Integrating Conditional Probabilities, Context Logic, and Primitives </a> - (poster, I)</li>
+   <li> <a href="{{site.baseurl}}/data/ACS-22_paper_168.pdf">Robert L. Kirby, Knowledge Representation Integrating Conditional Probabilities, Closure Logic, and Primitives </a> - (poster, I)</li>
    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_757.pdf">	Christopher Geib, Jeffrey Rye and Vasanth Sarathy, Portals and Spaces: An Egocentric Knowledge Representation for Reasoning About Actions and its Implementation </a> - (poster, I)</li>
    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_1019.pdf">Jacob Morosco and Yuchou Chang, Visual Inference Using Homology of Human and Machine Vision Systems</a> - (poster, I)</li>
     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_1124.pdf">Venkatsampath Raja Gogineni, Sravya Kondrakunta and Michael Cox, Multi-agent Goal Delegation Using Theory of Mind</a> - (poster, I)</li>

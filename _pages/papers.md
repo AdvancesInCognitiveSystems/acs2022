@@ -339,7 +339,7 @@ common sense and qualitative modeling, conceptual inference and reasoning
 
 <li>
 <p><a href="/acs2022/data/acs_paper-168.pdf">
-Knowledge Representation Integrating Conditional Probabilities, Context Logic, and Primitives</a><br />
+Knowledge Representation Integrating Conditional Probabilities, Closure Logic, and Primitives</a><br />
 Robert L. Kirby and Robert L. Kirby<br />
 <b><i>Keywords:</i></b>  knowledge representation, conditional probability
 estimates, closure logic, primitives
