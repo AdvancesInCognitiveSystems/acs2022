@@ -1,1 +1,1 @@
-source ~/bin/jekyll-server
+source ~/bin/jekyll-server $1
