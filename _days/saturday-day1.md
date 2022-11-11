@@ -49,9 +49,9 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 -->
 
   <ol>
-   <li> <a href="{{site.baseurl}}/data/ACS-22_paper_9367.pdf">Sravya Kondrakunta, Venkatsampath Raja Gogineni and Michael Cox, Agent Goal Management using Goal Operations</a> - (Long, I)</li>
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_8679.pdf">Will Bridewell, Taking the Intentional Stance Seriously: A Guide to Progress in Artificial Intelligence</a> - (Long, I)</li>
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_4252.pdf">Aaron Stockdill, Grecia Garcia Garcia, Peter Cheng, Daniel Raggi and Mateja Jamnik, Cognitive Modeling of Interpretations of Representations</a> - (Long, I)</li>
+   <li> <a href="{{site.baseurl}}/data/acs22_paper-9367.pdf">Sravya Kondrakunta, Venkatsampath Raja Gogineni and Michael Cox, Agent Goal Management using Goal Operations</a> - (Long, I)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-8679.pdf">Will Bridewell, Taking the Intentional Stance Seriously: A Guide to Progress in Artificial Intelligence</a> - (Long, I)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-4252.pdf">Aaron Stockdill, Grecia Garcia Garcia, Peter Cheng, Daniel Raggi and Mateja Jamnik, Cognitive Modeling of Interpretations of Representations</a> - (Long, I)</li>
   </ol>
   
   </td>
@@ -65,9 +65,9 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 <!-- ###### Chaired by TBD -->
 
   <ol>
-   <li> <a href="{{site.baseurl}}/data/ACS-22_paper_396.pdf">Pat Langley and Edward Katz, Motion Planning and Continuous Control in a Unified Cognitive Architecture</a> - (Short, I)</li>
+   <li> <a href="{{site.baseurl}}/data/acs22_paper-396.pdf">Pat Langley and Edward Katz, Motion Planning and Continuous Control in a Unified Cognitive Architecture</a> - (Short, I)</li>
     <!-- Nikhil Krishnaswamy.  "I will be attending remotely, but Sadaf is planning to be there in person.  We will share the presentation of our paper.  However, I am giving a virtual tutorial at AACL on November 20th.  I'm not sure what time of day I need to be at that, but it will be 3 hours, so I would request that our talk at ACS not be scheduled on November 20." -->
-   <li> <a href="{{site.baseurl}}/data/ACS-22_paper_3157.pdf">Sadaf Ghaffari and Nikhil Krishnaswamy, Detecting and Accommodating Novel Types and Concepts in an Embodied Simulation Environment</a> - (Short, I)</li>
+   <li> <a href="{{site.baseurl}}/data/acs22_paper-3157.pdf">Sadaf Ghaffari and Nikhil Krishnaswamy, Detecting and Accommodating Novel Types and Concepts in an Embodied Simulation Environment</a> - (Short, I)</li>
   </ol>
   
   </td>
@@ -104,17 +104,17 @@ the Harding Center for Risk Literacy, University of Potsdam</a><br>
 <!-- ###### Chaired by TBD -->
 
   <ol>
-   <li> <a href="{{site.baseurl}}/data/ACS-22_paper_168.pdf">Robert L. Kirby, Knowledge Representation Integrating Conditional Probabilities, Closure Logic, and Primitives </a> - (poster, I)</li>
-   <li> <a href="{{site.baseurl}}/data/ACS-22_paper_757.pdf">	Christopher Geib, Jeffrey Rye and Vasanth Sarathy, Portals and Spaces: An Egocentric Knowledge Representation for Reasoning About Actions and its Implementation </a> - (poster, I)</li>
-   <li> <a href="{{site.baseurl}}/data/ACS-22_paper_1019.pdf">Jacob Morosco and Yuchou Chang, Visual Inference Using Homology of Human and Machine Vision Systems</a> - (poster, I)</li>
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_1124.pdf">Venkatsampath Raja Gogineni, Sravya Kondrakunta and Michael Cox, Multi-agent Goal Delegation Using Theory of Mind</a> - (poster, I)</li>
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_1545.pdf">Dustin Dannenhauer, Noah Reifsnyder, Aj Regester and Matthew Molineaux, Transforming Environments to Evaluate Agent Adaptation</a> - (poster, I)</li>
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_1568.pdf">David Sekora, Addressing the Scaling Problem for Embodied Symbolic Reasoning</a> - (poster, I)</li>
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_1694.pdf">Alex Arnold and Jeff Heflin, Learning a More Efficient Backward-Chaining Reasoner</a> - (poster, I)</li>
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_1217.pdf">Jamie Macbeth, Alexis Kilayko, Megan McKenzie, Matt Klenk, Scott Carter and Kate Sieck, Script Combination for Enhanced Story Understanding and Story Generation Systems</a> - (poster, V)</li>
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_3723.pdf">James Kirk, Robert Wray, Peter Lindes and John Laird, Improving Language Model Prompting in Support of Semi-autonomous Task Learning</a> - (poster, V)</li>
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_9282.pdf">Sungeun An, Jennifer Hammock, Spencer Rugaber and Ashok Goel, Contextualized Access to Large-Scale Domain Knowledge for Conceptual Modeling of Agent-Based Systems</a> - (poster, V)</li>  
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_7339.pdf">Andrew Nuxoll, Braeden Lane, Connor Morgan, Kai Vickers and Max Woods, Towards an Artificial, General Episodic Memory via Learning in Noisy, Perceptually-Aliased Environments</a> - (poster, ?)</li>    
+   <li> <a href="{{site.baseurl}}/data/acs22_paper-168.pdf">Robert L. Kirby, Knowledge Representation Integrating Conditional Probabilities, Closure Logic, and Primitives </a> - (poster, I)</li>
+   <li> <a href="{{site.baseurl}}/data/acs22_paper-757.pdf">	Christopher Geib, Jeffrey Rye and Vasanth Sarathy, Portals and Spaces: An Egocentric Knowledge Representation for Reasoning About Actions and its Implementation </a> - (poster, I)</li>
+   <li> <a href="{{site.baseurl}}/data/acs22_paper-1019.pdf">Jacob Morosco and Yuchou Chang, Visual Inference Using Homology of Human and Machine Vision Systems</a> - (poster, I)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-1124.pdf">Venkatsampath Raja Gogineni, Sravya Kondrakunta and Michael Cox, Multi-agent Goal Delegation Using Theory of Mind</a> - (poster, I)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-1545.pdf">Dustin Dannenhauer, Noah Reifsnyder, Aj Regester and Matthew Molineaux, Transforming Environments to Evaluate Agent Adaptation</a> - (poster, I)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-1568.pdf">David Sekora, Addressing the Scaling Problem for Embodied Symbolic Reasoning</a> - (poster, I)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-1694.pdf">Alex Arnold and Jeff Heflin, Learning a More Efficient Backward-Chaining Reasoner</a> - (poster, I)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-1217.pdf">Jamie Macbeth, Alexis Kilayko, Megan McKenzie, Matt Klenk, Scott Carter and Kate Sieck, Script Combination for Enhanced Story Understanding and Story Generation Systems</a> - (poster, V)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-3723.pdf">James Kirk, Robert Wray, Peter Lindes and John Laird, Improving Language Model Prompting in Support of Semi-autonomous Task Learning</a> - (poster, V)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-9282.pdf">Sungeun An, Jennifer Hammock, Spencer Rugaber and Ashok Goel, Contextualized Access to Large-Scale Domain Knowledge for Conceptual Modeling of Agent-Based Systems</a> - (poster, V)</li>  
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-7339.pdf">Andrew Nuxoll, Braeden Lane, Connor Morgan, Kai Vickers and Max Woods, Towards an Artificial, General Episodic Memory via Learning in Noisy, Perceptually-Aliased Environments</a> - (poster, ?)</li>    
   </ol>
   
   </td>

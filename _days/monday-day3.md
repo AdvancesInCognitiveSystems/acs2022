@@ -33,9 +33,9 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
   <td id="session6"> <span class="schedtime"> 9:15 AM - 10:30 AM </span></td><td> <b> Session 6 </b>
 <!-- ###### Chaired by TBD -->
    <ol>
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_238.pdf">Jumpei Nishikawa, Kazuma Nagashima, Ryo Yoneda, Junya Morita and Tetsuya Terada, Representing Motivation in a Simple Perceptual and Motor Coordination Task based on a Goal Activation Mechanism</a> - (Long, V)</li>
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_7652.pdf">Fangjun Li, David C. Hogg and Anthony G. Cohn, Ontology Knowledge-enhanced In-Context Learning for Action-Effect Prediction</a> - (Long, V)</li>
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_2603.pdf">Harsha Kokel, Mayukh Das, Rakibul Islam, Julia Bonn, Jon Cai, Soham Dan, Anjali Narayan-Chen, Prashant Jayannavar, Jana Doppa, Julia Hockenmaier, Sriraam Natarajan, Martha Palmer and Dan Roth, LARA – Human-guided collaborative problem solver: Effective integration of learning, reasoning and communication</a> - (Short, V)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-238.pdf">Jumpei Nishikawa, Kazuma Nagashima, Ryo Yoneda, Junya Morita and Tetsuya Terada, Representing Motivation in a Simple Perceptual and Motor Coordination Task based on a Goal Activation Mechanism</a> - (Long, V)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-7652.pdf">Fangjun Li, David C. Hogg and Anthony G. Cohn, Ontology Knowledge-enhanced In-Context Learning for Action-Effect Prediction</a> - (Long, V)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-2603.pdf">Harsha Kokel, Mayukh Das, Rakibul Islam, Julia Bonn, Jon Cai, Soham Dan, Anjali Narayan-Chen, Prashant Jayannavar, Jana Doppa, Julia Hockenmaier, Sriraam Natarajan, Martha Palmer and Dan Roth, LARA – Human-guided collaborative problem solver: Effective integration of learning, reasoning and communication</a> - (Short, V)</li>
    </ol>
   
 <!--
@@ -63,7 +63,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
   <td id="session7"> <span class="schedtime"> 11:00 AM - 11:15 AM </span></td><td> <b> Session 7 </b>
 <!-- ###### Chaired by TBD -->
    <ol>
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_911.pdf">Caoimhe Harrington Stack, Sarah Myers, Effat Farhana, Aviv Roskes, Xinyu Shen, Simeng Zhao, Angela Maliakal, Roxanne Rashedi, Joel Michelson and Maithilee Kunda, Framework for a multi-dimensional test of theory of mind for humans and AI systems</a> - (Short, ?)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-911.pdf">Caoimhe Harrington Stack, Sarah Myers, Effat Farhana, Aviv Roskes, Xinyu Shen, Simeng Zhao, Angela Maliakal, Roxanne Rashedi, Joel Michelson and Maithilee Kunda, Framework for a multi-dimensional test of theory of mind for humans and AI systems</a> - (Short, ?)</li>
    </ol>
   </td>
 </tr>
@@ -87,9 +87,9 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
   <td id="session8"> <span class="schedtime"> 1:30 AM - 2:15 PM </span></td><td> <b> Session 8 </b>
 <!-- ###### Chaired by TBD -->
    <ol>
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_5926.pdf">Matthew D. Goldberg and Donald Perlis, Real-Time Metacognition and Applications</a> - (Short, V)</li>
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_3588.pdf">Xue Li, Alan Bundy and Ruiqi Zhu, Benchmark based Vitality of Axioms and Preconditions for Datalog Theory Repair</a> - (Short, V)</li>
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_186.pdf">Aadhar Gupta, Mahavir Dabas, Shashank Uttrani and Varun Dutt, Learning from Single and Multi-human intelligence via Cognitive and Reinforcement Learning</a> - (Short, V)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-5926.pdf">Matthew D. Goldberg and Donald Perlis, Real-Time Metacognition and Applications</a> - (Short, V)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-3588.pdf">Xue Li, Alan Bundy and Ruiqi Zhu, Benchmark based Vitality of Axioms and Preconditions for Datalog Theory Repair</a> - (Short, V)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-186.pdf">Aadhar Gupta, Mahavir Dabas, Shashank Uttrani and Varun Dutt, Learning from Single and Multi-human intelligence via Cognitive and Reinforcement Learning</a> - (Short, V)</li>
    </ol>
  
   </td>

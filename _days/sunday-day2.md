@@ -29,9 +29,9 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 <tr>
   <td id="session3"> <span class="schedtime"> 9:05 AM - 10:35 AM </span></td><td> <b> Session 3 </b>
    <ol>
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_1295.pdf">Joseph Blass and Kenneth Forbus, Conclusion-Verified Analogical Schema Induction</a> - (Long, I)</li>
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_8017.pdf">Derek Martin and Arnav Jhala, Dynamic Discounting in Decision-Making</a> - (Long, I)</li>
-    <li> <a href="{{site.baseurl}}/data/ACS-22_paper_5758.pdf">Claire Yin, Pedro Colon-Hernandez and Henry Lieberman, Getting Help from the Neighborhood: Local Semantic Averaging for Commonsense Inference in Language Models</a> - (Long, I)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-1295.pdf">Joseph Blass and Kenneth Forbus, Conclusion-Verified Analogical Schema Induction</a> - (Long, I)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-8017.pdf">Derek Martin and Arnav Jhala, Dynamic Discounting in Decision-Making</a> - (Long, I)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-5758.pdf">Claire Yin, Pedro Colon-Hernandez and Henry Lieberman, Getting Help from the Neighborhood: Local Semantic Averaging for Commonsense Inference in Language Models</a> - (Long, I)</li>
    </ol>
      
   </td>
@@ -70,12 +70,12 @@ href="{{site.baseurl}}/speakers/Anthony_Cohn/"> Anthony Cohn</a> </b><br>
    <td> <span class="schedtime"> 1:00 PM - 3:00 PM </span></td> 
    <td id="session4">  <b> Session 4 (Long and Short Talks) </b>
      <ol>
-     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_2537.pdf">Christopher Maclellan, Peter Matsakis and Pat Langley, Efficient Induction of Language Models Via Probabilistic Concept Formation</a> - (Long, V)</li>
-     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_7038.pdf">Vasanth Sarathy, Mark Burstein, Scott Friedman, Robert Bobrow and Ugur Kuter, A Neuro-Symbolic Cognitive System for Intuitive Argumentation</a> - (Long, I)</li>
-     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_8878.pdf">Jason Wilson, Lissangel Martinez and Irina Rabkina, Deductive Reasoning with Incomplete Knowledge via Repeated Analogies</a> - (Short, I)</li>
-     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_2091.pdf">Pablo Gervás, A Discourse Interpretation Engine Sensitive to Truth Revisions in a Story</a> - (Short, I)</li>
-     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_7803.pdf">Constantine Nakos, Mukundan Kuthalam and Kenneth Forbus, A Framework for Interactive Natural Language Debugging</a> - (Short, I)</li>
-     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_9358.pdf">Jamie Macbeth, Alexis Kilayko, Matthew Klenk, Scott Carter, Katharine Sieck, Zoie Zhao, Jingwen Xiang, Megan McKenzie and Mackie Zhou, Interleaving a Symbolic Story Generator with a Neural Network-Based Large Language Model</a> - (Short, I)</li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-2537.pdf">Christopher Maclellan, Peter Matsakis and Pat Langley, Efficient Induction of Language Models Via Probabilistic Concept Formation</a> - (Long, V)</li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-7038.pdf">Vasanth Sarathy, Mark Burstein, Scott Friedman, Robert Bobrow and Ugur Kuter, A Neuro-Symbolic Cognitive System for Intuitive Argumentation</a> - (Long, I)</li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-8878.pdf">Jason Wilson, Lissangel Martinez and Irina Rabkina, Deductive Reasoning with Incomplete Knowledge via Repeated Analogies</a> - (Short, I)</li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-2091.pdf">Pablo Gervás, A Discourse Interpretation Engine Sensitive to Truth Revisions in a Story</a> - (Short, I)</li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-7803.pdf">Constantine Nakos, Mukundan Kuthalam and Kenneth Forbus, A Framework for Interactive Natural Language Debugging</a> - (Short, I)</li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-9358.pdf">Jamie Macbeth, Alexis Kilayko, Matthew Klenk, Scott Carter, Katharine Sieck, Zoie Zhao, Jingwen Xiang, Megan McKenzie and Mackie Zhou, Interleaving a Symbolic Story Generator with a Neural Network-Based Large Language Model</a> - (Short, I)</li>
      </ol>
    </td> 
 </tr>
@@ -88,10 +88,10 @@ href="{{site.baseurl}}/speakers/Anthony_Cohn/"> Anthony Cohn</a> </b><br>
    <!--  <div class=shortnote>Short talks are 10 minutes plus 2 minutes for questions during changeover.</div> -->
    <!-- ###### Chaired by TBD -->     
      <ol>
-     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_301.pdf">Justin Brody and Don Perlis, Diasynchronic Logic</a> - (Short, I)</li>
-     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_9776.pdf">Christopher Geib, Denson George, Baber Khalid, Richard Magnotti and Matthew Stone, An Integrated Architecture for Common Ground in Collaboration</a> - (Short, I)</li>
-     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_6940.pdf">Adam Amos-Binks and Leilani Gilpin, Anticipatory Thinking Assessment: Stress tests using synthetic data</a> - (Short, I)</li>
-     <li> <a href="{{site.baseurl}}/data/ACS-22_paper_7677.pdf">Morgan Fine-Morris, Michael Floyd, Bryan Auslander, Greg Pennisi, Kalyan Gupta, Mark Roberts, Jeff Heflin and Hector Munoz-Avila Learning, Decomposition Methods with Numeric Landmarks</a> - (Short, ?)</li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-301.pdf">Justin Brody and Don Perlis, Diasynchronic Logic</a> - (Short, I)</li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-9776.pdf">Christopher Geib, Denson George, Baber Khalid, Richard Magnotti and Matthew Stone, An Integrated Architecture for Common Ground in Collaboration</a> - (Short, I)</li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-6940.pdf">Adam Amos-Binks and Leilani Gilpin, Anticipatory Thinking Assessment: Stress tests using synthetic data</a> - (Short, I)</li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-7677.pdf">Morgan Fine-Morris, Michael Floyd, Bryan Auslander, Greg Pennisi, Kalyan Gupta, Mark Roberts, Jeff Heflin and Hector Munoz-Avila Learning, Decomposition Methods with Numeric Landmarks</a> - (Short, ?)</li>
      </ol>
         
  <!-- More examples from 2021 -->       
