@@ -16,6 +16,8 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 (S) after title, or look in the corresponding Slack channel.
 -->
 
+*Parenthetical after each talk indicates Long/Short/Poster presentation and
+In-person or Virtual. *
 
 
 <table>
