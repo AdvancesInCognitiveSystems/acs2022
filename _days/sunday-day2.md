@@ -17,8 +17,9 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 <!-- You can watch the 
      [recorded talks](https://www.youtube.com/playlist?list=PL-1wKlUbAzGTjZjLcOduALuoZ3aupVSqe) for this day.  (FIX LINK) -->
 
-*Parenthetical after each talk indicates Long/Short/Poster presentation and
-In-person or Virtual. *
+*All times are Eastern Time (GMT-5).*
+
+*Parenthetical after each talk indicates Long/Short/Poster presentation and (I)n-person or (V)irtual.*
 
 <table>
 <tr>
@@ -43,7 +44,7 @@ In-person or Virtual. *
   <td> <span class="schedtime"> 10:35 AM - 11:00 AM </span></td>
   <td>  <b> Break</b> </td>
 </tr>
-<tr> <td> <span class="schedtime"> 11:00 PM - 11:05 PM </span></td> <td>
+<tr> <td> <span class="schedtime"> 11:00 AM - 11:05 AM </span></td> <td>
 <b> Herbert A. Simon Prize Winner Presentation </b>  - Pat Langley</td>
 </tr>
 <tr>
@@ -52,7 +53,7 @@ In-person or Virtual. *
 <td> <b>  Herbert A. Simon Prize Talk - <a
 href="{{site.baseurl}}/speakers/Anthony_Cohn/"> Anthony Cohn</a> </b><br>
 <a href="https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp">Professor of Automated Reasoning, University of Leeds</a><br>
-<a href="{{site.baseurl}}/talks/#cohn">Talk Title TBD</a>
+<a href="{{site.baseurl}}/talks/#cohn_talk">Talk Title TBD</a>
 <!--
     <a href="{{site.baseurl}}/talks/#allen">Conversational systems: Past,
     Present and future</a>  - <a

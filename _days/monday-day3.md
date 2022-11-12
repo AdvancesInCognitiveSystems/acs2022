@@ -5,8 +5,6 @@ supertitle: Schedule
 day: monday-day3
 ---
 
-*All times are Eastern Time (GMT-5). 
-
 <!-- This day's session talks are available on YouTube
 at
 [ACS 2021 Day 1](https://www.youtube.com/playlist?list=PL-1wKlUbAzGSlUlf92yCfbYlUV8WWkuFT).
@@ -16,8 +14,9 @@ Invited talks are linked directly as shown below.
 Paper PDFs are available by clicking on talk titles. For slides, click on
 (S) after title, or look in the corresponding Slack channel.
 -->
-*Parenthetical after each talk indicates Long/Short/Poster presentation and
-In-person or Virtual. *
+*All times are Eastern Time (GMT-5).*
+
+*Parenthetical after each talk indicates Long/Short/Poster presentation and (I)n-person or (V)irtual.*
 
 
 <table>
@@ -72,11 +71,11 @@ In-person or Virtual. *
 </tr>
   
 <tr>
-  <td> <span class="schedtime"> 11:15 PM - 12:00 PM </span></td>
+  <td> <span class="schedtime"> 11:15 AM - 12:00 PM </span></td>
   <td> <b>  Invited talk -
-<a href="{{site.baseurl}}/speakers/mei_si/"> Ruth Byrne </a> </b><br>
+<a href="{{site.baseurl}}/speakers/mei_si/"> Ruth Byrne,</a> </b>
 <a href="https://faculty.rpi.edu/mei-si">Trinity College Dublin, University of Dublin, Ireland</a><br>
-<a href="{{site.baseurl}}/talks/#mei_si">Title: How People Reason about Counterfactual Explanations </a> 
+<b>Title:</b><a href="{{site.baseurl}}/talks/#Si_talk"> How People Reason about Counterfactual Explanations </a> 
     
   </td>
 </tr>
@@ -101,9 +100,9 @@ In-person or Virtual. *
 <tr>
   <td> <span class="schedtime"> 2:15 PM - 3:00 PM </span></td>
   <td> <b>  Invited talk - 
-<a href="{{site.baseurl}}/speakers/mei_si/"> Doug Lenat </a> </b><br>
-<a href="https://faculty.rpi.edu/mei-si">CEO Cycorp</a><br>
-<a href="{{site.baseurl}}/talks/#mei_si">Title: "Computers versus Common Sense"</a> 
+<a href="{{site.baseurl}}/speakers/doug_lenat/"> Doug Lenat </a> </b>
+<a href="https://cyc.com/leadership-team/">, CEO,  Cycorp</a><br>
+<b>Title: </b><a href="{{site.baseurl}}/talks/#Lenat_talk">Computers versus Common Sense</a> 
     
   </td>
 </tr>

@@ -4,7 +4,7 @@ title:  "Saturday, November 19th"
 supertitle: Schedule
 day: saturday-day1
 ---
-*All times are Eastern Time (GMT-5). 
+
 
 <!--
 This day's session talks are available on YouTube
@@ -15,9 +15,9 @@ Invited talks are linked directly as shown below.
 Paper PDFs are available by clicking on talk titles. For slides, click on
 (S) after title, or look in the corresponding Slack channel.
 -->
+*All times are Eastern Time (GMT-5).*
 
-*Parenthetical after each talk indicates Long/Short/Poster presentation and
-In-person or Virtual. *
+*Parenthetical after each talk indicates Long/Short/Poster presentation and (I)n-person or (V)irtual.*
 
 
 <table>
