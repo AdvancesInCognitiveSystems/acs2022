@@ -6,37 +6,40 @@ permalink: /talks/
 
 We are pleased to announce the following invited talks:
 
-<!---  - **Sunday** ---><!--- **9:00 AM EST: ** --->
-  - <span id= "Cohn_talk"></span> <b> Herbert A. Simon Prize Talk:<br>
-  [Anthony Cohn]({{site.baseurl }}/speakers/Anthony_Cohn) --  [Professor of Automated Reasoning, University of Leeds](https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp) <br>
-    **Title:** </b>TBD<br>
-    **Abstract:** 
 
 
-<!--- - **Saturday** ---> <!--- ** 11:00 AM EST: ** --->
-
- - <span id  ="Si_talk"></span><b>[Mei Si](https://faculty.rpi.edu/mei-si) -- Associate Professor, Cognitive Science Department, Rensselaer Polytechnic Institute<br>
+ - <span id  ="Si_talk"></span>
+<b>Saturday November 19, 3:45 PM EST: </b><br>
+ <b>[Mei Si, Associate Professor, Cognitive Science Department, Rensselaer Polytechnic Institute](https://faculty.rpi.edu/mei-si) <br>
   **Title:** </b>TBD<br>
   **Abstract:** 
     <br><br>
     
 
-  
-  - <span id="Byrne_talk"></span> <b><!--- **11:00 AM EST:** ---> 
-   [Ruth Byrne](https://www.tcd.ie/research/profiles/?profile=rmbyrne),
-  Professor of Cognitive Science, Psychology, Trinity Inst. of
-  Neurosciences (TCIN) 
+
+  - <span id= "Cohn_talk"></span> 
+<b>Sunday November 20, 11:15 AM EST: </b><br>
+<b> Herbert A. Simon Prize Talk:<br>
+  [Anthony Cohn]({{site.baseurl }}/speakers/Anthony_Cohn) --  [Professor of Automated Reasoning, University of Leeds](https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp) <br>
+    **Title:** </b>TBD<br>
+    **Abstract:** 
+
+
+  - <span id="Byrne_talk"></span> 
+<b>Sunday 11::15 AM EST:</b><br>
+ <b>  [Ruth Byrne,  Professor of Cognitive Science, Psychology, Trinity Inst. of
+  Neurosciences (TCIN) ](https://www.tcd.ie/research/profiles/?profile=rmbyrne) </b> 
     
     **Title:** <b>How people reason about counterfactual explanations </b> <br>
     
     **Abstract:** People often create explanations about how an outcome could have turned out differently, if some preceding events had been different. In this talk I focus on the cognitive processes that underlie the construction and comprehension of counterfactual explanations and causal explanations. I discuss recent experimental discoveries of differences in how people reason about counterfactual and causal assertions, including evidence from eye-tracking experiments of differences in the tendency to consider multiple possibilities,  and evidence from sentence-stem completion experiments of differences in the content of such explanations. I consider some of the implications of these discoveries for the use of automated counterfactual explanations for decisions by Artificial Intelligence (AI) decision support systems in eXplainable AI (XAI). I describe empirical findings of differences in people’s subjective preferences for counterfactual and causal explanations for decisions by AI systems in familiar and unfamiliar domains, and people’s objective accuracy in predicting such decisions or making their own decisions. I argue that counterfactual explanations confer several cognitive benefits despite their potential cognitive costs.     
     <br><br>
     
-<!---- **Monday:**<br>        --->    
-  - <span id="Lenat_talk"> </span> <b>
-   <!--- **11:00 AM EST**: -->
-   [Doug Lenat](https://cyc.com/leadership-team/), CEO,
-   [CYCORP](https://cycorp.com) <br>
+
+  - <span id="Lenat_talk"> </span>
+<b>Sunday 2:15 PM EST:</b><br>
+ <b>  [Doug Lenat](https://cyc.com/leadership-team/), CEO,
+   [CYCORP](https://cycorp.com) </b><br>
    
     **Title:** <b>Computers versus Common Sense </b>  <br>
     
