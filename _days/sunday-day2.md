@@ -2,7 +2,7 @@
 layout: day
 title:  "Sunday, November 20th"
 supertitle: Schedule
-day: wednesday-day2
+day: sunday-day2
 ---
 *All times are Eastern Time (GMT-5). 
 
