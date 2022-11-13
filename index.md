@@ -20,7 +20,7 @@ Learn more about the conference [here](http://www.cogsys.org/conference/2022/). 
 ### Social Media
 ----
 - YouTube [ACS Channel](https://www.youtube.com/channel/UCTcaMWR5sv603SO7DN8L-TA)
-- Twitter [@AdvCogSys21](https://twitter.com/AdvCogSys21)
+- Twitter [@AdvCogSys21](https://twitter.com/AdvCogSystems)
 
 
 ### Sponsors
