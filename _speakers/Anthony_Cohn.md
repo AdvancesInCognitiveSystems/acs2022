@@ -3,14 +3,13 @@ layout: speaker
 name: Anthony Cohn
 role: Professor of Automated Reasoning
 institution: University of Leeds
-#date: November 18th, 2021
-label: November 18th, 2021
-time: 1:00 PM - 1:45 PM EST
+label: November 20th, 2022
+time: 11:05 AM - 12:00 PM EST
 day: day3
 website: https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp
 image: /images/anthony_cohn.jpg
-title: Manipulation in cluttered environments and interacting with robots
-abstract: Humans, in comparison to robots, are remarkably adept at reaching for objects in cluttered environments. The best existing robot planners are based on random sampling of configuration space- which becomes excessively high-dimensional with large number of objects. Consequently, most planners often fail to efficiently find object manipulation plans in such environments. I will present two methods to address this challenge; firstly, by learning from human demonstrations in VR and learning a model which can be used to build a high level plan which can then be  used to guide a traditional stochastic planner; secondly exploiting human hints at run time to guide a stochastic  trajectory optimising planner. Finally, if time allows, I will talk about how we can take account of human comfort whilst collaboratively working with robots.
+title: Title TBD
+abstract: TBD
 bio: Prof. Cohn holds BSc and PhD degrees from the University of Essex where he studied under Pat Hayes. He spent 10 years at the University of Warwick before moving to Leeds in 1990 where he founded  a research group working on Knowledge Representation and Reasoning with a particular focus on qualitative spatial/spatio-temporal  reasoning, the best known being the well cited Region Connection Calculus (RCC) – the KR-92 paper which introduced this calculus recently gained the KR-20 Test-of-Time Classic Paper Award.  He is Editor-in-Chief Spatial Cognition and Computation and has been Chairman/President of the UK AI Society SSAISB, the European Association for Artificial Intelligence  (EurAI),  KR inc, the IJCAI Board of Trustees and was the Editor-in-Chief for  Artificial Intelligence 2007-2014 and of the AAAI Press 2004-14. He currently chairs the Steering Committee of the Spatial Cognition conference. He remains a Director of KR Inc. He is the recipient of the 2015 IJCAI Donald E Walker Distinguished Service Award which honours senior scientists in AI for contributions and service to the field during their careers, as well as the 2012 AAAI Distinguished Service Award for “extraordinary and sustained service to the artificial intelligence community”. He is a Fellow of the Royal Academy of Engineering,  and is also a Fellow of AAAI, AISB,  EurAI (Founding Fellow), the BCS, and the IET. His research interests have always centred on knowledge representation and spatial information in particular. His  recent research interests range from theoretical work on spatial calculi and spatial ontologies, to cognitive vision, grounding language in vision,  detection of archaeological residues using remote sensing techniques, modelling spatial information in the hippocampus, integrating utility records and sensor data concerning the location of underground assets and decision support systems for tunnel maintenance and construction. He wrote some [limericks](https://artificial-intelligence.leeds.ac.uk/limericks-submitted-to-the-microsoft-limerick-competition-at-aaai-20/) on AI for the Microsoft Research Limerick competition at AAAI-20, including the winning entry.
 
 ---
