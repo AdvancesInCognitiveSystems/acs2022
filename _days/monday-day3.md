@@ -73,8 +73,8 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 <tr>
   <td> <span class="schedtime"> 11:15 AM - 12:00 PM </span></td>
   <td> <b>  Invited talk -
-<a href="{{site.baseurl}}/speakers/mei_si/"> Ruth Byrne,</a> </b>
-<a href="https://faculty.rpi.edu/mei-si">Trinity College Dublin, University of Dublin, Ireland</a><br>
+<a href="{{site.baseurl}}/speakers/Ruth_Byrne/"> Ruth Byrne,</a> </b>
+<a href="https://www.tcd.ie/research/profiles/?profile=rmbyrne">Trinity College Dublin, University of Dublin, Ireland</a><br>
 <b>Title:</b><a href="{{site.baseurl}}/talks/#Si_talk"> How People Reason about Counterfactual Explanations </a> 
     
   </td>
