@@ -50,10 +50,9 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 <tr>
   <td > <span class="schedtime"> 11:05 AM - 12:05 PM
   </span></td>
-<td> <b>  Herbert A. Simon Prize Talk - <a
-href="{{site.baseurl}}/speakers/Anthony_Cohn/"> Anthony Cohn</a> </b><br>
+<td> <b>  Herbert A. Simon Prize Talk - <a href="{{site.baseurl}}/speakers/Anthony_Cohn/"> Anthony Cohn</a> </b><br>
 <a href="https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp">Professor of Automated Reasoning, University of Leeds</a><br>
-<a href="{{site.baseurl}}/talks/#cohn_talk">Talk Title TBD</a>
+<a href="{{site.baseurl}}/talks/#Cohn_talk">Talk Title TBD</a>
 <!--
     <a href="{{site.baseurl}}/talks/#allen">Conversational systems: Past,
     Present and future</a>  - <a
