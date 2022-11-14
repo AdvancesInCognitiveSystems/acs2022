@@ -100,7 +100,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 <tr>
   <td> <span class="schedtime"> 2:15 PM - 3:00 PM </span></td>
   <td> <b>  Invited talk - 
-<a href="{{site.baseurl}}/speakers/doug_lenat/"> Doug Lenat </a> </b>
+<a href="{{site.baseurl}}/speakers/Doug_Lenat/"> Doug Lenat </a> </b>
 <a href="https://cyc.com/leadership-team/">, CEO,  Cycorp</a><br>
 <b>Title: </b><a href="{{site.baseurl}}/talks/#Lenat_talk">Computers versus Common Sense</a> 
     
