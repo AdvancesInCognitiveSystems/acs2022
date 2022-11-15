@@ -6,7 +6,7 @@ institution:  Rensselaer Polytechnic Institute
 label: November 19th, 2022
 time: 3:45 PM - 4:30 PM EST
 day: saturday-day1
-website: https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer
+website: https://faculty.rpi.edu/mei-si
 image: /images/Mei-Si.webp
 title: Title TBD
 abstract: TBD
