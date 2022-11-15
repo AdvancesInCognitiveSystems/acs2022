@@ -25,6 +25,13 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 <th width=190px> Time </th>
 <th> Description </th>
 </tr>
+
+<tr>
+<td> <span class="schedtime"> 12:00 PM - 1:00 PM </span></td>
+<td>  <b> Lunch </b> </td>
+</tr>
+
+  
 <tr>
 <td> <span class="schedtime"> 1:00 PM - 1:15 PM </span></td>
 <td>  <b> Welcome and Logistics </b> - Jamie Macbeth </td>
