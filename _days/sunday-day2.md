@@ -119,7 +119,7 @@ Title: <a href="{{site.baseurl}}/talks/#Cohn_talk"> Cognitive Systems with Spati
 </tr>
 
 <tr> <td> <span class="schedtime"> 4:30 PM - 5:30 PM </span></td> <td>
-<b> Community Discussion </b></td>
+     <a href="{{site.baseurl}}/talks/panel/"><b> Panel and Community Discussion </b></a></td>
 </tr>
 
 </table>
