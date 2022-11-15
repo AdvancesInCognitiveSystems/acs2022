@@ -2,7 +2,7 @@
 layout: speaker
 name: Ruth Byrne
 role: Professor of Cognitive Science, Trinity Inst. of Neurosciences (TCIN)
-institution:  Rensselaer Polytechnic Institute
+institution: Trinity College Dublin, University of Dublin, Ireland
 label: November 21, 2022
 time: 11:15 AM EST
 day: monday-day3
