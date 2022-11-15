@@ -4,7 +4,7 @@ name: Doug Lenat
 role: CEO, Cycorp
 institution:  Cycorp
 label: November 21, 2022
-time: 2:30 PM EST
+time: 2:30 PM - 3:15 PM EST
 day: monday-day3
 website: https://cyc.com/leadership-team/
 image: /images/Doug_Lenat.jpg
