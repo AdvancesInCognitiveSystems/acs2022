@@ -4,7 +4,7 @@ name: Ruth Byrne
 role: Professor of Cognitive Science, Trinity Inst. of Neurosciences (TCIN)
 institution: Trinity College Dublin, University of Dublin, Ireland
 label: November 21, 2022
-time: 11:15 AM EST
+time: 11:15 AM - 12:00 PM EST
 day: monday-day3
 website: https://www.tcd.ie/research/profiles/?profile=rmbyrne
 image: /images/RuthByrne.jpg
