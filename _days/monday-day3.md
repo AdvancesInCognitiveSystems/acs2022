@@ -65,7 +65,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
   <td id="session7"> <span class="schedtime"> 10:55 AM - 11:15 AM </span></td><td> <b> Session 7 </b>
 <!-- ###### Chaired by TBD -->
    <ol>
-    <li> <a href="{{site.baseurl}}/data/acs22_paper-911.pdf">Caoimhe Harrington Stack, Sarah Myers, Effat Farhana, Aviv Roskes, Xinyu Shen, Simeng Zhao, Angela Maliakal, Roxanne Rashedi, Joel Michelson and Maithilee Kunda, Framework for a multi-dimensional test of theory of mind for humans and AI systems</a> - (Short, ?)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-911.pdf">Caoimhe Harrington Stack, Sarah Myers, Effat Farhana, Aviv Roskes, Xinyu Shen, Simeng Zhao, Angela Maliakal, Roxanne Rashedi, Joel Michelson and Maithilee Kunda, Framework for a multi-dimensional test of theory of mind for humans and AI systems</a> - (Short, V)</li>
    </ol>
   </td>
 </tr>
