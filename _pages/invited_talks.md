@@ -19,10 +19,10 @@ We are pleased to announce the following invited talks:
   - <span id= "Cohn_talk"></span> 
 <b>Sunday November 20, 11:05 AM EST: </b><br>
 <b> Herbert A. Simon Prize Talk:<br>
-  [Anthony Cohn]({{site.baseurl }}/speakers/Anthony_Cohn) --  [Professor of Automated Reasoning, University of Leeds](https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp) <\b><br> <br>
-    **Title:** TBD<br>
-    **Abstract:** 
-
+  [Anthony Cohn]({{site.baseurl }}/speakers/Anthony_Cohn) --  [Professor of Automated Reasoning, University of Leeds](https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp) </b><br> <br>
+ **Title:** <b> Cognitive Systems with Spatial Intelligence </b> <br>
+ 
+ **Abstract:** Being able to represent and reason about space is crucial for an embodied cognitive agent (and indeed many virtual agents too).  In this talk I will discuss the kinds of spatial representation and reasoning that a cognitive agent might need, focussing on the kinds of qualitative spatial representations which my research group has been investigating and indeed also using over the years, in particular for learning activity models from video data.  I will also talk about how a cognitive agent might ground language to spatio-temporal perceptions.  During the talk I will also outline various as yet unsolved challenges.
 
   - <span id="Byrne_talk"></span> 
 <b>Monday 11::15 AM EST:<br>
