@@ -25,6 +25,12 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 <th> Description </th>
 </tr>
 
+
+<tr>
+<td> <span class="schedtime"> 8:00 AM - 9:00 AM </span></td>
+<td>  <b> Breakfast and Registration </b> </td>
+</tr>
+  
 <tr>
 <td> <span class="schedtime"> 9:00 AM - 9:05 AM </span></td>
 <td>  <b> Announcements </b> - Leilani Gilpin </td>
