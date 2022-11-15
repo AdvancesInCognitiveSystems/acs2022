@@ -4,12 +4,12 @@ name: Anthony Cohn
 role: Professor of Automated Reasoning
 institution: University of Leeds
 label: November 20th, 2022
-time: 11:05 AM - 12:00 PM EST
-day: day3
+time: 11:05 AM - 11:55 AM EST
+day: day2
 website: https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp
 image: /images/anthony_cohn.jpg
-title: Title TBD
-abstract: TBD
+title: Cognitive Systems with Spatial Intelligence
+abstract: Being able to represent and reason about space is crucial for an embodied cognitive agent (and indeed many virtual agents too).  In this talk I will discuss the kinds of spatial representation and reasoning that a cognitive agent might need, focussing on the kinds of qualitative spatial representations which my research group has been investigating and indeed also using over the years, in particular for learning activity models from video data.  I will also talk about how a cognitive agent might ground language to spatio-temporal perceptions.  During the talk I will also outline various as yet unsolved challenges.
 bio: Prof. Cohn holds BSc and PhD degrees from the University of Essex where he studied under Pat Hayes. He spent 10 years at the University of Warwick before moving to Leeds in 1990 where he founded  a research group working on Knowledge Representation and Reasoning with a particular focus on qualitative spatial/spatio-temporal  reasoning, the best known being the well cited Region Connection Calculus (RCC) – the KR-92 paper which introduced this calculus recently gained the KR-20 Test-of-Time Classic Paper Award.  He is Editor-in-Chief Spatial Cognition and Computation and has been Chairman/President of the UK AI Society SSAISB, the European Association for Artificial Intelligence  (EurAI),  KR inc, the IJCAI Board of Trustees and was the Editor-in-Chief for  Artificial Intelligence 2007-2014 and of the AAAI Press 2004-14. He currently chairs the Steering Committee of the Spatial Cognition conference. He remains a Director of KR Inc. He is the recipient of the 2015 IJCAI Donald E Walker Distinguished Service Award which honours senior scientists in AI for contributions and service to the field during their careers, as well as the 2012 AAAI Distinguished Service Award for “extraordinary and sustained service to the artificial intelligence community”. He is a Fellow of the Royal Academy of Engineering,  and is also a Fellow of AAAI, AISB,  EurAI (Founding Fellow), the BCS, and the IET. His research interests have always centred on knowledge representation and spatial information in particular. His  recent research interests range from theoretical work on spatial calculi and spatial ontologies, to cognitive vision, grounding language in vision,  detection of archaeological residues using remote sensing techniques, modelling spatial information in the hippocampus, integrating utility records and sensor data concerning the location of underground assets and decision support systems for tunnel maintenance and construction. He wrote some [limericks](https://artificial-intelligence.leeds.ac.uk/limericks-submitted-to-the-microsoft-limerick-competition-at-aaai-20/) on AI for the Microsoft Research Limerick competition at AAAI-20, including the winning entry.
 
 ---
