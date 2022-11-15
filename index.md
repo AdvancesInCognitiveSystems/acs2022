@@ -11,7 +11,7 @@ In-person attendance ($350 fee) and virtual speaker registration ($100) [Go here
 
 For virtual attendance registration (no fee) [Go here](https://docs.google.com/forms/d/e/1FAIpQLSdxlvtW95NiuozTaVz3Ie0Hbydmn-eCHnxKLGGAnPFa-alqBg/viewform?usp=sf_link)
 
-We will contact all registered participants in the week before the conference with information regarding conference technology and logistics. In the meantime, check back for updates to the schedule. You can also follow [@AdvCogSys21](https://twitter.com/AdvCogSys21) on Twitter to get updates.
+We will contact all registered participants in the week before the conference with information regarding conference technology and logistics. In the meantime, check back for updates to the schedule. You can also follow [@AdvCogSystems](https://twitter.com/AdvCogSystems) on Twitter to get updates.
 
 ACS is an annual meeting for research on the initial goals of artificial intelligence and cognitive science, which aimed to explain the mind in computational terms and to reproduce the entire range of human cognitive abilities in computational artifacts. Many researchers remain committed to this original vision, and Advances in Cognitive Systems provides a place to present recent results and pose new challenges for the field. The meetings bring together researchers with interests in human-level intelligence, complex cognition, integrated intelligent systems, cognitive architectures, and related topics. 
 
@@ -20,7 +20,8 @@ Learn more about the conference [here](http://www.cogsys.org/conference/2022/). 
 ### Social Media
 ----
 - YouTube [ACS Channel](https://www.youtube.com/channel/UCTcaMWR5sv603SO7DN8L-TA)
-- Twitter [@AdvCogSys21](https://twitter.com/AdvCogSystems)
+- Twitter [@AdvCogSystems](https://twitter.com/AdvCogSystems)
+- Slack [Slack Channel](https://advcogsystems.slack.com)
 
 
 ### Sponsors
