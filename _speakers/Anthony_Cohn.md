@@ -5,7 +5,7 @@ role: Professor of Automated Reasoning
 institution: University of Leeds
 label: November 20th, 2022
 time: 11:05 AM - 11:55 AM EST
-day: day2
+day: sunday-day2
 website: https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp
 image: /images/anthony_cohn.jpg
 title: Cognitive Systems with Spatial Intelligence
