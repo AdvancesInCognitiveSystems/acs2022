@@ -98,7 +98,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
      <ol>
      <li> <a href="{{site.baseurl}}/data/acs22_paper-9776.pdf">Christopher Geib, Denson George, Baber Khalid, Richard Magnotti and Matthew Stone, An Integrated Architecture for Common Ground in Collaboration</a> - (Short, I)</li>
      <li> <a href="{{site.baseurl}}/data/acs22_paper-6940.pdf">Adam Amos-Binks and Leilani Gilpin, Anticipatory Thinking Assessment: Stress tests using synthetic data</a> - (Short, I)</li>
-     <li> <a href="{{site.baseurl}}/data/acs22_paper-7677.pdf">Morgan Fine-Morris, Michael Floyd, Bryan Auslander, Greg Pennisi, Kalyan Gupta, Mark Roberts, Jeff Heflin and Hector Munoz-Avila Learning, Decomposition Methods with Numeric Landmarks</a> - (Short, ?)</li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-7677.pdf">Morgan Fine-Morris, Michael Floyd, Bryan Auslander, Greg Pennisi, Kalyan Gupta, Mark Roberts, Jeff Heflin and Hector Munoz-Avila Learning, Decomposition Methods with Numeric Landmarks</a> - (Short, V)</li>
      </ol>
         
  <!-- More examples from 2021 -->       
