@@ -4,7 +4,6 @@ title:  "Sunday, November 20th"
 supertitle: Schedule
 day: sunday-day2
 ---
-*All times are Eastern Time (GMT-5). 
 
 <!--
 This day's session talks are available on YouTube at
