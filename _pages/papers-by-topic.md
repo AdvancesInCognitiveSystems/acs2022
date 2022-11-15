@@ -190,14 +190,7 @@ systems, visual inference, dot language, COCO dataset,
 
 <div id="RR" class="PaperCat">
     <ul>
- <li>
-<p><a href="/acs2022/data/acs22_paper-2091.pdf">
-A Discourse Interpretation Engine Sensitive to Truth Revisions in a Story</a> (Short)<br />
-Pablo Gervás<br />
-<b><i>Keywords:</i></b>  discourse interpretation, truth revision,
-narrative
-</p>
-</li>
+ 
 <li>
 <p><a href="/acs2022/data/acs22_paper-3588.pdf">
 Benchmark based Vitality of Axioms and Preconditions for Datalog Theory Repair</a> (Short)<br />
@@ -228,6 +221,14 @@ Portals and Spaces: An Egocentric Knowledge Representation for Reasoning About A
 Christopher Geib, Jeffrey Rye and Vasanth Sarathy<br />
 <b><i>Keywords:</i></b>  Knowledge Representation, Reasoning, plan
 recognition, spatial representations, robotics
+</p>
+</li>
+<li>
+<p><a href="/acs2022/data/acs22_paper-1694.pdf">
+Learning a More Efficient Backward-Chaining Reasoner</a> (Poster)<br />
+Alex Arnold and Jeff Heflin<br />
+<b><i>Keywords:</i></b>  horn logic, meta-reasoning, neuro-symbolic, neural
+network
 </p>
 </li>
 
@@ -288,6 +289,13 @@ learning, cognitive architectures
 <div id="NL" class="PaperCat">
     <ul>
 <li>
+<p><a href="/acs2022/data/acs22_paper-2091.pdf">
+A Discourse Interpretation Engine Sensitive to Truth Revisions in a Story</a> (Short)<br />
+Pablo Gervás<br />
+<b><i>Keywords:</i></b>  discourse interpretation, truth revision,
+narrative
+</p>
+</li><li>
 <p><a href="/acs2022/data/acs22_paper-7803.pdf">
 A Framework for Interactive Natural Language Debugging</a> (Short)<br />
 Constantine Nakos, Mukundan Kuthalam and Kenneth Forbus<br />
@@ -359,14 +367,6 @@ Addressing the Scaling Problem for Embodied Symbolic Reasoning</a> (Poster)<br /
 David Sekora<br />
 <b><i>Keywords:</i></b>  symbolic logic, spatial logic, embodied cognition,
 locality
-</p>
-</li>
-<li>
-<p><a href="/acs2022/data/acs22_paper-1694.pdf">
-Learning a More Efficient Backward-Chaining Reasoner</a> (Poster)<br />
-Alex Arnold and Jeff Heflin<br />
-<b><i>Keywords:</i></b>  horn logic, meta-reasoning, neuro-symbolic, neural
-network
 </p>
 </li>
    </ul>
