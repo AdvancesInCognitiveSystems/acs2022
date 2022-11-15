@@ -8,7 +8,7 @@ We are pleased to announce the following invited talks:
 
 
  - <span id  ="Si_talk"></span>
-<b>Saturday November 19, 3:45 PM EST: <br>
+<b>Saturday, November 19, 3:45 PM EST: <br>
 **[Mei Si]({{site.baseurl }}/speakers/Mei_Si) --  [Associate Professor, Cognitive Science Department, Rensselaer Polytechnic Institute](https://faculty.rpi.edu/mei-si)** </b><br><br>
   **Title: TBD**<br>
   **Abstract:** 
@@ -17,15 +17,17 @@ We are pleased to announce the following invited talks:
 
 
   - <span id= "Cohn_talk"></span> 
-<b>Sunday November 20, 11:05 AM EST: </b><br>
-<b> Herbert A. Simon Prize Talk:<br>
+<b>Sunday, November 20, 11:05 AM EST: </b><br>
+<b> Herbert A. Simon Prize Talk: <br>
   [Anthony Cohn]({{site.baseurl }}/speakers/Anthony_Cohn) --  [Professor of Automated Reasoning, University of Leeds](https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp) </b><br> <br>
- **Title:** <b> Cognitive Systems with Spatial Intelligence </b> <br>
- 
- **Abstract:** Being able to represent and reason about space is crucial for an embodied cognitive agent (and indeed many virtual agents too).  In this talk I will discuss the kinds of spatial representation and reasoning that a cognitive agent might need, focussing on the kinds of qualitative spatial representations which my research group has been investigating and indeed also using over the years, in particular for learning activity models from video data.  I will also talk about how a cognitive agent might ground language to spatio-temporal perceptions.  During the talk I will also outline various as yet unsolved challenges.
+    **Title:** <b> Cognitive Systems with Spatial Intelligence </b> <br>
+    
+    **Abstract:** Being able to represent and reason about space is crucial for an embodied cognitive agent (and indeed many virtual agents too).  In this talk I will discuss the kinds of spatial representation and reasoning that a cognitive agent might need, focussing on the kinds of qualitative spatial representations which my research group has been investigating and indeed also using over the years, in particular for learning activity models from video data.  I will also talk about how a cognitive agent might ground language to spatio-temporal perceptions.  During the talk I will also outline various as yet unsolved challenges.
+   <br><br>
+
 
   - <span id="Byrne_talk"></span> 
-<b>Monday 11::15 AM EST:<br>
+<b>Monday, November 21st, 11:15 AM EST:<br>
   [Ruth Byrne]({{site.baseurl }}/speakers/Ruth_Byrne) -- [Professor of Cognitive Science, Psychology, Trinity Inst. of
   Neurosciences (TCIN) ](https://www.tcd.ie/research/profiles/?profile=rmbyrne)  </b><br> <br>
     **Title:** <b>How people reason about counterfactual explanations </b> <br>
@@ -35,7 +37,7 @@ We are pleased to announce the following invited talks:
     
 
   - <span id="Lenat_talk"> </span>
-<b>Monday 2:15 PM EST:<br>
+<b>Monday, November 21st, 2:15 PM EST:<br>
    [Doug Lenat]({{site.baseurl }}/speakers/Doug_Lenat)  -- [CEO, Cycorp](https://cyc.com/leadership-team/)</b> <br>
    
     **Title:** <b>Computers versus Common Sense </b>  <br>
