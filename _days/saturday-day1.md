@@ -59,11 +59,11 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
   </td>
 </tr>
 <tr>
-  <td> <span class="schedtime"> 2:45 PM - 3:15 PM </span></td>
+  <td> <span class="schedtime"> 2:45 PM - 3:05 PM </span></td>
   <td>  <b> Break</b> </td>
 </tr>
 <tr>
-  <td id="session2"> <span class="schedtime"> 3:15 PM - 3:45 PM </span></td><td> <b> Session 2 </b>
+  <td id="session2"> <span class="schedtime"> 3:05 PM - 3:45 PM </span></td><td> <b> Session 2 </b>
 <!-- ###### Chaired by TBD -->
 
   <ol>

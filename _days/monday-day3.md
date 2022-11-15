@@ -26,18 +26,18 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 </tr>
 
 <tr>
-<td> <span class="schedtime"> 9:10 AM - 9:15 AM </span></td>
+<td> <span class="schedtime"> 9:00 AM - 9:05 AM </span></td>
 <td>  <b> Announcements </b> - Leilani Gilpin </td>
 </tr>
 
   
 <tr>
-  <td id="session6"> <span class="schedtime"> 9:15 AM - 10:30 AM </span></td><td> <b> Session 6 </b>
+  <td id="session6"> <span class="schedtime"> 9:05 AM - 10:35 AM </span></td><td> <b> Session 6 </b>
 <!-- ###### Chaired by TBD -->
    <ol>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-238.pdf">Jumpei Nishikawa, Kazuma Nagashima, Ryo Yoneda, Junya Morita and Tetsuya Terada, Representing Motivation in a Simple Perceptual and Motor Coordination Task based on a Goal Activation Mechanism</a> - (Long, V)</li>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-7652.pdf">Fangjun Li, David C. Hogg and Anthony G. Cohn, Ontology Knowledge-enhanced In-Context Learning for Action-Effect Prediction</a> - (Long, V)</li>
-    <li> <a href="{{site.baseurl}}/data/acs22_paper-2603.pdf">Harsha Kokel, Mayukh Das, Rakibul Islam, Julia Bonn, Jon Cai, Soham Dan, Anjali Narayan-Chen, Prashant Jayannavar, Jana Doppa, Julia Hockenmaier, Sriraam Natarajan, Martha Palmer and Dan Roth, LARA – Human-guided collaborative problem solver: Effective integration of learning, reasoning and communication</a> - (Short, V)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-2537.pdf">Christopher Maclellan, Peter Matsakis and Pat Langley, Efficient Induction of Language Models Via Probabilistic Concept Formation</a> - (Long, V)</li>
    </ol>
   
 <!--
@@ -57,12 +57,12 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
   </td>
 </tr>
 <tr>
-  <td> <span class="schedtime"> 10:30 AM - 11:00 AM </span></td>
+  <td> <span class="schedtime"> 10:35 AM - 10:55 AM </span></td>
   <td>  <b> Break</b> </td>
 </tr>
 
 <tr>
-  <td id="session7"> <span class="schedtime"> 11:00 AM - 11:15 AM </span></td><td> <b> Session 7 </b>
+  <td id="session7"> <span class="schedtime"> 10:55 AM - 11:15 AM </span></td><td> <b> Session 7 </b>
 <!-- ###### Chaired by TBD -->
    <ol>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-911.pdf">Caoimhe Harrington Stack, Sarah Myers, Effat Farhana, Aviv Roskes, Xinyu Shen, Simeng Zhao, Angela Maliakal, Roxanne Rashedi, Joel Michelson and Maithilee Kunda, Framework for a multi-dimensional test of theory of mind for humans and AI systems</a> - (Short, ?)</li>
@@ -86,7 +86,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 </tr>
 
 <tr>
-  <td id="session8"> <span class="schedtime"> 1:30 AM - 2:15 PM </span></td><td> <b> Session 8 </b>
+  <td id="session8"> <span class="schedtime"> 1:30 PM - 2:30 PM </span></td><td> <b> Session 8 </b>
 <!-- ###### Chaired by TBD -->
    <ol>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-5926.pdf">Matthew D. Goldberg and Donald Perlis, Real-Time Metacognition and Applications</a> - (Short, V)</li>
@@ -96,9 +96,8 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
  
   </td>
 </tr>
-
 <tr>
-  <td> <span class="schedtime"> 2:15 PM - 3:00 PM </span></td>
+  <td> <span class="schedtime"> 2:30 PM - 3:15 PM </span></td>
   <td> <b>  Invited talk - 
 <a href="{{site.baseurl}}/speakers/Doug_Lenat/"> Doug Lenat </a> </b>
 <a href="https://cyc.com/leadership-team/">, CEO,  Cycorp</a><br>
@@ -108,15 +107,25 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 </tr>
 
 <tr>
-  <td> <span class="schedtime"> 3:00 PM - 3:30 PM </span></td>
+  <td> <span class="schedtime"> 3:15 PM - 3:35 PM </span></td>
   <td>  <b> Break</b> </td>
 </tr>
+<tr> 
+   <td> <span class="schedtime"> 3:35 PM - 4:25 PM </span></td> 
+   <td id="session9">  <b> Session 9 </b>
+     <ol>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-7038.pdf">Vasanth Sarathy, Mark Burstein, Scott Friedman, Robert Bobrow and Ugur Kuter, A Neuro-Symbolic Cognitive System for Intuitive Argumentation</a> - (Long, V)</li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-2603.pdf">Harsha Kokel, Mayukh Das, Rakibul Islam, Julia Bonn, Jon Cai, Soham Dan, Anjali Narayan-Chen, Prashant Jayannavar, Jana Doppa, Julia Hockenmaier, Sriraam Natarajan, Martha Palmer and Dan Roth, LARA – Human-guided collaborative problem solver: Effective integration of learning, reasoning and communication</a> - (Short, V)</li>
+     </ol>
+   </td> 
+</tr>
 
+<!--
 <tr>
   <td> <span class="schedtime"> 3:30 PM - 4:30 PM </span></td>
   <td>  <b> Community Discussion</b> </td>
   
-</tr>
+</tr> -->
 
 
 </table>
