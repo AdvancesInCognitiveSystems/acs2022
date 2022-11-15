@@ -46,7 +46,7 @@ We are pleased to announce the following invited talks:
 
 We are also pleased to announce the following panel and community discussion:
 
-  - <span id="Panel_discussion"></span>
+  - <span id="panel"></span>
 <b>Sunday, November 20st, 4:30 PM EST:</b><br>
 <b>Panel and Community Discussion</b><br>
     
