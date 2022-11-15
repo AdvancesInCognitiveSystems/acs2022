@@ -53,7 +53,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
   </span></td>
 <td> <b>  Herbert A. Simon Prize Talk - <a href="{{site.baseurl}}/speakers/Anthony_Cohn/"> Anthony Cohn</a> </b><br>
 <a href="https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp">Professor of Automated Reasoning, University of Leeds</a><br>
-<a href="{{site.baseurl}}/talks/#Cohn_talk"> Title: Cognitive Systems with Spatial Intelligence</a>
+Title: <a href="{{site.baseurl}}/talks/#Cohn_talk"> Cognitive Systems with Spatial Intelligence</a>
 <tr> <td> <span class="schedtime"> 11:55 AM - 12:00 PM </span></td> <td>
 <b> Herbert A. Simon Prize Winner Presentation </b>  - Pat Langley</td>
 </tr>
