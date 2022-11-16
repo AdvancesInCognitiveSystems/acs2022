@@ -123,7 +123,7 @@ the Harding Center for Risk Literacy, University of Potsdam</a><br>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-1217.pdf">Megan McKenzie, Alexis Kilayko, Jamie C. Macbeth, Scott Carter, Katharine Sieck and Matthew Klenk, Script Combination for Enhanced Story Understanding and Story Generation Systems</a> - (poster, V)</li>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-3723.pdf">James Kirk, Robert Wray, Peter Lindes and John Laird, Improving Language Model Prompting in Support of Semi-autonomous Task Learning</a> - (poster, V)</li>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-9282.pdf">Sungeun An, Jennifer Hammock, Spencer Rugaber and Ashok Goel, Contextualized Access to Large-Scale Domain Knowledge for Conceptual Modeling of Agent-Based Systems</a> - (poster, V)</li>  
-    <li> <a href="{{site.baseurl}}/data/acs22_paper-7339.pdf">Andrew Nuxoll, Braeden Lane, Connor Morgan, Kai Vickers and Max Woods, Towards an Artificial, General Episodic Memory via Learning in Noisy, Perceptually-Aliased Environments</a> - (poster, V)</li>    
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-7339.pdf">Braeden Lane, Connor Morgan, Kai Vickers, Max Woods, and Andrew Nuxoll, Towards an Artificial, General Episodic Memory via Learning in Noisy, Perceptually-Aliased Environments</a> - (poster, V)</li>    
   </ol>
   
   </td>
