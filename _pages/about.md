@@ -10,7 +10,7 @@ Learn more about the conference [here](http://www.cogsys.org/conference/2022/). 
 
 ## Program Chairs
 
-- [Jaime Macbeth](https://www.smith.edu/academics/faculty/jamie-macbeth/), Smith College
+- [Jamie Macbeth](https://www.smith.edu/academics/faculty/jamie-macbeth/), Smith College
 - [Leilani Gilpin](https://engineering.ucsc.edu/people/lgilpin), University of California, Santa Cruz
 
 
@@ -25,7 +25,7 @@ Learn more about the conference [here](http://www.cogsys.org/conference/2022/). 
 - Michael Cox, Wright State University
 - Matthew Klenk, Toyota Research Institute
 - Pat Langley, Institute for the Study of Learning and Expertise/Stanford University
-- Jamie MacBeth, Smith College
+- Jamie Macbeth, Smith College
 - Sergei Nirenburg, Rensselaer Polytechnic Institute
 
 ## Program Committee
