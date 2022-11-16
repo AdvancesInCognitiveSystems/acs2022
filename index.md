@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-The **Tenth Advances in Cognitive Systems (ACS) Conference** will be held **November 19-22, 2022**.
+The **Tenth Advances in Cognitive Systems (ACS) Conference** will be held **November 19-22, 2022** as a hybrid conference.  Virtual attendance will be through Zoom and the in-person conference will be held at [George Mason University's Institute for Digital InnovAtion (IDIA)](https://idia.gmu.edu/) campus at 3351 North Fairfax Drive, Arlington, Virginia, USA. 
 
 *****Registration is now open *****
 
