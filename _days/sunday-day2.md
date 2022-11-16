@@ -79,7 +79,7 @@ Title: <a href="{{site.baseurl}}/talks/#Cohn_talk"> Cognitive Systems with Spati
      <li> <a href="{{site.baseurl}}/data/acs22_paper-8878.pdf">Jason Wilson, Lissangel Martinez and Irina Rabkina, Deductive Reasoning with Incomplete Knowledge via Repeated Analogies</a> - (Short, I)</li>
      <li> <a href="{{site.baseurl}}/data/acs22_paper-2091.pdf">Pablo Gervás, A Discourse Interpretation Engine Sensitive to Truth Revisions in a Story</a> - (Short, I)</li>
      <li> <a href="{{site.baseurl}}/data/acs22_paper-7803.pdf">Constantine Nakos, Mukundan Kuthalam and Kenneth Forbus, A Framework for Interactive Natural Language Debugging</a> - (Short, I)</li>
-     <li> <a href="{{site.baseurl}}/data/acs22_paper-9358.pdf">Jamie Macbeth, Alexis Kilayko, Matthew Klenk, Scott Carter, Katharine Sieck, Zoie Zhao, Jingwen Xiang, Megan McKenzie and Mackie Zhou, Interleaving a Symbolic Story Generator with a Neural Network-Based Large Language Model</a> - (Short, I)</li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-9358.pdf">Jingwen Xiang, Zoie Zhao, Mackie Zhou, Megan McKenzie, Alexis Kilayko, Jamie C. Macbeth, Scott Carter, Katharine Sieck, Matthew Klenk, Interleaving a Symbolic Story Generator with a Neural Network-Based Large Language Model</a> - (Short, I)</li>
      <li> <a href="{{site.baseurl}}/data/acs22_paper-301.pdf">Justin Brody and Don Perlis, Diasynchronic Logic</a> - (Short, I)</li>
 <!--
      <li> <a href="{{site.baseurl}}/data/acs22_paper-7038.pdf">Vasanth Sarathy, Mark Burstein, Scott Friedman, Robert Bobrow and Ugur Kuter, A Neuro-Symbolic Cognitive System for Intuitive Argumentation</a> - (Long, V)</li> -->
