@@ -33,5 +33,5 @@ Learn more about the conference [here](http://www.cogsys.org/conference/2022/). 
 <div style="text-align:center">
      <a href="https://idia.gmu.edu/"><img src= "{{ site.baseurl }}/images/idia.png"  alt="GMU IDIA" style="max-width250px;"></a>
      <a href="http://www.sift.net/"><img src= "{{ site.baseurl }}/images/sift-logo-510.png"  alt="SIFT" style="max-width250px;"></a>
-     <a href="https://www.tri.global/"><img src= "{{ site.baseurl }}/images/TRI_small.png"  alt="TRI" style="max-width10px;"></a>
+     <a href="https://www.tri.global/"><img src= "{{ site.baseurl }}/images/tri_small.png"  alt="TRI" style="max-width10px;"></a>
 </div>
