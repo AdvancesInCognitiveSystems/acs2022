@@ -17,7 +17,7 @@ We are pleased to announce the following invited talks:
 
 
   - <span id= "Cohn_talk"></span> 
-<b>Sunday, November 20th, 11:05 AM EST: </b><br>
+<b>Sunday, November 20th, 11:10 AM EST: </b><br>
 <b> Herbert A. Simon Prize Talk: <br>
   [Anthony Cohn]({{site.baseurl }}/speakers/Anthony_Cohn) --  [Professor of Automated Reasoning, University of Leeds](https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp) </b><br> <br>
     **Title:** <b> Cognitive Systems with Spatial Intelligence </b> <br>
