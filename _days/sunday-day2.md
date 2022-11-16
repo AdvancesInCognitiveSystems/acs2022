@@ -34,7 +34,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 <td>  <b> Local Chair's Welcome </b> - Mihai Boicu </td>
 </tr>
 <tr>
-  <td id="session3"> <span class="schedtime"> 9:15 AM - 10:45 AM </span></td><td> <b> Session 3 </b>
+  <td id="session3"> <span class="schedtime"> 9:15 AM - 10:45 AM </span></td><td> <b> Session 3</b> - Chair: Willie Wilson
    <ol>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-1295.pdf">Joseph Blass and Kenneth Forbus, Conclusion-Verified Analogical Schema Induction</a> - (Long, I)</li>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-8017.pdf">Derek Martin and Arnav Jhala, Dynamic Discounting in Decision-Making</a> - (Long, I)</li>
