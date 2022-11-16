@@ -26,4 +26,12 @@ Learn more about the conference [here](http://www.cogsys.org/conference/2022/). 
 
 ### Sponsors
 ----
-<div style="text-align:center"><a href="http://www.sift.net/"><img src= "{{ site.baseurl }}/images/sift-logo-510.png"  alt="SIFT" style="max-width250px;"></a></div>
+<!-- <div style="text-align:center"><a href="http://www.sift.net/"><img src= "{{ site.baseurl }}/images/sift-logo-510.png"  alt="SIFT" style="max-width250px;"></a></div>
+<div style="text-align:left"><a href="https://idia.gmu.edu/"><img src= "{{ site.baseurl }}/images/idia.png"  alt="GMU IDIA" style="max-width250px;"></a></div>
+<div style="text-align:right"><a href="https://www.tri.global/"><img src= "{{ site.baseurl }}/images/tri.jpg"  alt="TRI" style="max-width50px;"></a></div> -->
+
+<div style="text-align:center">
+     <a href="https://idia.gmu.edu/"><img src= "{{ site.baseurl }}/images/idia.png"  alt="GMU IDIA" style="max-width250px;"></a>
+     <a href="http://www.sift.net/"><img src= "{{ site.baseurl }}/images/sift-logo-510.png"  alt="SIFT" style="max-width250px;"></a>
+     <a href="https://www.tri.global/"><img src= "{{ site.baseurl }}/images/tri_small.png"  alt="TRI" style="max-width10px;"></a>
+</div>
