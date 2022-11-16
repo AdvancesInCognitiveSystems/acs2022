@@ -99,7 +99,7 @@ knowledge
 <li>
 <p><a href="/acs2022/data/acs22_paper-9358.pdf">
 Interleaving a Symbolic Story Generator with a Neural Network-Based Large Language Model</a><br />
-Jamie Macbeth, Alexis Kilayko, Matthew Klenk, Scott Carter, Katharine Sieck, Zoie Zhao, Jingwen Xiang, Megan McKenzie and Mackie Zhou<br />
+Jingwen Xiang, Zoie Zhao, Mackie Zhou, Megan McKenzie, Alexis Kilayko, Jamie Macbeth, Scott Carter, Katharine Sieck and Matthew Klenk<br />
 <b><i>Keywords:</i></b>  story generation, natural language generation,
 neural-symbolic systems, large language models
 </p>
@@ -126,7 +126,7 @@ instance-based learning, ACT-R
 <li>
 <p><a href="/acs2022/data/acs22_paper-3157.pdf">
 Detecting and Accommodating Novel Types and Concepts in an Embodied Simulation Environment</a><br />
-Sadaf Ghaffari and Nikhil Krishnaswam <br />
+Sadaf Ghaffari and Nikhil Krishnaswamy <br />
 <b><i>Keywords:</i></b>  metacog, embodied simulation, transfer learning,
 metacognition, voxml
 </p>
@@ -241,7 +241,7 @@ decision making
 <li>
 <p><a href="/acs2022/data/acs22_paper-1217.pdf">
 Script Combination for Enhanced Story Understanding and Story Generation Systems</a><br />
-Jamie Macbeth, Alexis Kilayko, Megan McKenzie, Matt Klenk, Scott Carter and Kate Sieck<br />
+Megan McKenzie, Alexis Kilayko, Jamie Macbeth, Scott Carter, Kate Sieck and Matt Klenk<br />
 <b><i>Keywords:</i></b>  natural language understanding, story
 understanding, scripts, knowledge representation
 </p>
@@ -287,7 +287,7 @@ learning, cognitive architectures
 <li>
 <p><a href="/acs2022/data/acs22_paper-1545.pdf">
 Transforming Environments to Evaluate Agent Adaptation</a><br />
-Dustin Dannenhauer, Noah Reifsnyder, Aj Regester and Matthew Molineaux<br />
+Dustin Dannenhauer, Noah Reifsnyder, AJ Regester and Matthew Molineaux<br />
 <b><i>Keywords:</i></b>  planning, goal reasoning, transformed
 environments, agent based systems, agent adaption
 </p>
@@ -305,7 +305,7 @@ network
 <li>
 <p><a href="/acs2022/data/acs22_paper-7339.pdf">
 Towards an Artificial, General Episodic Memory via Learning in Noisy, Perceptually-Aliased Environments</a><br />
-Andrew Nuxoll, Braeden Lane, Connor Morgan, Kai Vickers and Max Woods<br />
+Braeden Lane, Connor Morgan, Kai Vickers, Max Woods and Andrew Nuxoll<br />
 <b><i>Keywords:</i></b>  episodic memory, perceptual aliasing, noisy
 sensors, episodic learning
 </p>
@@ -341,7 +341,7 @@ common sense and qualitative modeling, conceptual inference and reasoning
 <li>
 <p><a href="/acs2022/data/acs22_paper-168.pdf">
 Knowledge Representation Integrating Conditional Probabilities, Closure Logic, and Primitives</a><br />
-Robert L. Kirby and Robert L. Kirby<br />
+Robert L. Kirby<br />
 <b><i>Keywords:</i></b>  knowledge representation, conditional probability
 estimates, closure logic, primitives
 </p>
