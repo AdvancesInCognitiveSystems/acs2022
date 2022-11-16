@@ -117,7 +117,7 @@ the Harding Center for Risk Literacy, University of Potsdam</a><br>
    <li> <a href="{{site.baseurl}}/data/acs22_paper-757.pdf">	Christopher Geib, Jeffrey Rye and Vasanth Sarathy, Portals and Spaces: An Egocentric Knowledge Representation for Reasoning About Actions and its Implementation </a> - (poster, I)</li>
    <li> <a href="{{site.baseurl}}/data/acs22_paper-1019.pdf">Jacob Morosco and Yuchou Chang, Visual Inference Using Homology of Human and Machine Vision Systems</a> - (poster, I)</li>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-1124.pdf">Venkatsampath Raja Gogineni, Sravya Kondrakunta and Michael Cox, Multi-agent Goal Delegation Using Theory of Mind</a> - (poster, I)</li>
-    <li> <a href="{{site.baseurl}}/data/acs22_paper-1545.pdf">Dustin Dannenhauer, Noah Reifsnyder, Aj Regester and Matthew Molineaux, Transforming Environments to Evaluate Agent Adaptation</a> - (poster, I)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-1545.pdf">Dustin Dannenhauer, Noah Reifsnyder, AJ Regester and Matthew Molineaux, Transforming Environments to Evaluate Agent Adaptation</a> - (poster, I)</li>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-1568.pdf">David Sekora, Addressing the Scaling Problem for Embodied Symbolic Reasoning</a> - (poster, I)</li>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-1694.pdf">Alex Arnold and Jeff Heflin, Learning a More Efficient Backward-Chaining Reasoner</a> - (poster, I)</li>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-1217.pdf">Megan McKenzie, Alexis Kilayko, Jamie C. Macbeth, Scott Carter, Katharine Sieck and Matthew Klenk, Script Combination for Enhanced Story Understanding and Story Generation Systems</a> - (poster, V)</li>
