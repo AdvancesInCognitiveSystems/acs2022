@@ -10,8 +10,8 @@ We are pleased to announce the following invited talks:
  - <span id  ="Si_talk"></span>
 <b>Saturday, November 19th, 3:45 PM EST: <br>
 **[Mei Si]({{site.baseurl }}/speakers/Mei_Si) --  [Associate Professor, Cognitive Science Department, Rensselaer Polytechnic Institute](https://faculty.rpi.edu/mei-si)** </b><br><br>
-  **Title: TBD**<br>
-  **Abstract:** 
+  **Title: Virtual Humans and Interactive Storytelling**<br>
+  **Abstract:** Narrative is an important aspect of the human experience. With the rapid advancement of computer technologies in recent years, virtual environments are becoming increasingly capable of providing a vivid, fictional world in which users can immerse and interact with virtual humans controlled by other users or by an AI system. Game designers have been looking into ways to use rich characters and narratives to engage the player. Virtual humans and social robots have also been widely used for training and pedagogical purposes, ranging from math and physics tutoring to language and social skills training. My research seeks to develop automated procedures for driving conversational agents’ verbal and nonverbal behaviors. In this talk, I will discuss AI techniques for creating virtual humans and interactive stories. The talk will focus on how different technologies can be applied to model virtual humans with personalities, emotions, and a theory of mind. I will also discuss the challenges and different approaches to creating interactive stories. 
     <br><br>
     
 
