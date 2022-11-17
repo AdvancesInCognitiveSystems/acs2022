@@ -86,7 +86,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
   <td> <span class="schedtime"> 3:45 PM - 4:30 PM </span></td>
   <td> <b>  Invited talk - <a href="{{site.baseurl}}/speakers/Mei_Si/"> Mei Si</a>   </b><br>
 <a href="https://faculty.rpi.edu/mei-si">Rensselaer Polytechnic Institute</a><br>
-<a href="{{site.baseurl}}/talks/#mei_si">Title: TBA</a> 
+<a href="{{site.baseurl}}/talks/#mei_si">Title: Virtual Humans and Interactive Storytelling</a> 
     
 <!-- Invited talk example from last year -->
 <!--
