@@ -109,7 +109,7 @@ the Harding Center for Risk Literacy, University of Potsdam</a><br>
   <td>  <b> Break and Poster Setup</b> </td>
 </tr>
 <tr>
-  <td id="session2"> <span class="schedtime"> 4:45 PM - 6:30 PM </span></td><td> <b> Poster Session and Reception </b>
+  <td id="poster1"> <span class="schedtime"> 4:45 PM - 6:30 PM </span></td><td> <b> In-Person Poster Session and Reception </b>
 <!-- ###### Chaired by TBD -->
 
   <ol>
@@ -120,6 +120,16 @@ the Harding Center for Risk Literacy, University of Potsdam</a><br>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-1545.pdf">Dustin Dannenhauer, Noah Reifsnyder, AJ Regester and Matthew Molineaux, Transforming Environments to Evaluate Agent Adaptation</a> - (poster, I)</li>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-1568.pdf">David Sekora, Addressing the Scaling Problem for Embodied Symbolic Reasoning</a> - (poster, I)</li>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-1694.pdf">Alex Arnold and Jeff Heflin, Learning a More Efficient Backward-Chaining Reasoner</a> - (poster, I)</li>
+  </ol>
+  
+  </td>
+</tr>
+
+<tr>
+  <td id="poster2"> <span class="schedtime"> 5:30 PM - 6:30 PM </span></td><td> <b> Virtual Poster Session </b>
+<!-- ###### Chaired by TBD -->
+
+  <ol>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-1217.pdf">Megan McKenzie, Alexis Kilayko, Jamie C. Macbeth, Scott Carter, Katharine Sieck and Matthew Klenk, Script Combination for Enhanced Story Understanding and Story Generation Systems</a> - (poster, V)</li>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-3723.pdf">James Kirk, Robert Wray, Peter Lindes and John Laird, Improving Language Model Prompting in Support of Semi-autonomous Task Learning</a> - (poster, V)</li>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-9282.pdf">Sungeun An, Jennifer Hammock, Spencer Rugaber and Ashok Goel, Contextualized Access to Large-Scale Domain Knowledge for Conceptual Modeling of Agent-Based Systems</a> - (poster, V)</li>  
@@ -128,5 +138,5 @@ the Harding Center for Risk Literacy, University of Potsdam</a><br>
   
   </td>
 </tr>
-
+  
 </table>
