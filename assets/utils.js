@@ -1,5 +1,5 @@
 
-const paperMap = {}
+const paperMap = {13:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04B6Q73DNZ"}}
 var data
 
 function getRows(data) {
