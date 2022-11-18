@@ -38,7 +38,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 
   
 <tr>
-  <td id="session6"> <span class="schedtime"> 9:05 AM - 10:35 AM </span></td><td> <b> Session 6 </b>
+  <td id="session6"> <span class="schedtime"> 9:05 AM - 10:35 AM </span></td><td> <b> Session 6 </b> <!-- - Chair: Justin Brody -->
 <!-- ###### Chaired by TBD -->
    <ol>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-238.pdf">Jumpei Nishikawa, Kazuma Nagashima, Ryo Yoneda, Junya Morita and Tetsuya Terada, Representing Motivation in a Simple Perceptual and Motor Coordination Task based on a Goal Activation Mechanism</a> - (Long, V)</li>
@@ -68,8 +68,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 </tr>
 
 <tr>
-  <td id="session7"> <span class="schedtime"> 10:55 AM - 11:15 AM </span></td><td> <b> Session 7 </b>
-<!-- ###### Chaired by TBD -->
+  <td id="session7"> <span class="schedtime"> 10:55 AM - 11:15 AM </span></td><td> <b> Session 7 </b> <!-- - Chair: Zohreh Dannenhauer -->
    <ol>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-911.pdf">Caoimhe Harrington Stack, Sarah Myers, Effat Farhana, Aviv Roskes, Xinyu Shen, Simeng Zhao, Angela Maliakal, Roxanne Rashedi, Joel Michelson and Maithilee Kunda, Framework for a multi-dimensional test of theory of mind for humans and AI systems</a> - (Short, V)</li>
    </ol>
