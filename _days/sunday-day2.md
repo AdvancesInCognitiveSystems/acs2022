@@ -74,7 +74,7 @@ Title: <a href="{{site.baseurl}}/talks/#Cohn_talk"> Cognitive Systems with Spati
  
 <tr> 
    <td> <span class="schedtime"> 1:30 PM - 3:10 PM </span></td> 
-   <td id="session4">  <b> Session 4 </b>
+   <td id="session4">  <b> Session 4 </b> - Chair: Ben Wright
      <ol>
      <li> <a href="{{site.baseurl}}/data/acs22_paper-8878.pdf">Jason Wilson, Lissangel Martinez and Irina Rabkina, Deductive Reasoning with Incomplete Knowledge via Repeated Analogies</a> - (Short, I)</li>
      <li> <a href="{{site.baseurl}}/data/acs22_paper-2091.pdf">Pablo Gervás, A Discourse Interpretation Engine Sensitive to Truth Revisions in a Story</a> - (Short, I)</li>
@@ -91,7 +91,7 @@ Title: <a href="{{site.baseurl}}/talks/#Cohn_talk"> Cognitive Systems with Spati
 
 <tr> 
    <td> <span class="schedtime"> 3:30 PM - 4:30 PM </span></td> 
-   <td id="session4">  <b> Session 5 </b>
+   <td id="session4">  <b> Session 5 </b> - Chair: Sravya Kondrakunta
    <!--  <div class=shortnote>Short talks are 10 minutes plus 2 minutes for questions during changeover.</div> -->
    <!-- ###### Chaired by TBD -->     
      <ol>
