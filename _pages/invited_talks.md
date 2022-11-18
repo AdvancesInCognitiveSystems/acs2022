@@ -60,25 +60,14 @@ We are also pleased to announce the following panel and community discussion:
 <li><a href="http://www.dustindannenhauer.com/">Dustin Dannenhauer, Parallax Advanced Research</a></li>
 <li><a href="https://faculty.rpi.edu/sergei-nirenburg">Sergei Nirenburg, RPI</a></li>
 <li><a href="https://users.cs.northwestern.edu/~forbus/">Ken Forbus, Northwestern</a></li>
-<li>Moderator: <a href="http://www.wright.edu/~michael.cox/">Michael Cox, Wright State University</a></li>
-</ul></td></tr></table>
+</ul>
+<b>Moderator:</b><br>
+<ul>
+<li><a href="http://www.wright.edu/~michael.cox/">Michael Cox, Wright State University</a></li>
+</ul>
+ </td></tr></table>
    <br><br>
     
-<!--
-**1:45 PM EST: <span id="panel"> Panel Discussion: Research Directions for Cognitive Systems</span>**
-<table style="border-style: none; top-margin:-10px; border-spacing: 0px">
-<tr style="border-style: none"> <td width=30px style="border-style: none"></td>
-<td style="border-style: none">
-<b>Abstract:</b> Given recent rapid advances in many areas of Artificial Intelligence, including but not limited to machine learning, access to large data, knowledge-graphs, robotics and autonomous vehicles to name a few, this community has a great opportunity to grow by demonstrating the relevance of its approaches through cross-fertilization with other research that could benefit from a cognitive systems architectural perspective and vice versa.  This panel will lead a group discussion on how we might do that, and thereby encourage more diverse participation at this conference.<br>
-<b>Panelists:</b><br>
-<ul>
-<li><a href="https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp">Anthony Cohn, University of Leeds</a></li>
-<li><a href="http://www.dustindannenhauer.com/">Dustin Dannenhauer, Parallax Advanced Research</a></li>
-<li><a href="https://faculty.rpi.edu/sergei-nirenburg">Sergei Nirenburg, RPI</a></li>
-<li><a href="https://users.cs.northwestern.edu/~forbus/">Ken Forbus, Northwestern</a></li>
-<li>Moderator: <a href="http://www.wright.edu/~michael.cox/">Michael Cox, Wright State University</a></li>
-</ul></td></tr></table>
--->
 
 
 <!-- - _Cognitive Systems Pedagogy_: An overview of the workshop moderated by Tom Williams. -->
