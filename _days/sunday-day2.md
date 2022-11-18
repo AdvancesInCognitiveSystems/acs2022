@@ -36,9 +36,9 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 <tr>
   <td id="session3"> <span class="schedtime"> 9:15 AM - 10:45 AM </span></td><td> <b> Session 3</b> - Chair: Willie Wilson
    <ol>
-    <li> <a href="{{site.baseurl}}/data/acs22_paper-1295.pdf">Joseph Blass and Kenneth Forbus, Conclusion-Verified Analogical Schema Induction</a> - (Long, I)</li>
-    <li> <a href="{{site.baseurl}}/data/acs22_paper-8017.pdf">Derek Martin and Arnav Jhala, Dynamic Discounting in Decision-Making</a> - (Long, I)</li>
-    <li> <a href="{{site.baseurl}}/data/acs22_paper-5758.pdf">Claire Yin, Pedro Colon-Hernandez and Henry Lieberman, Getting Help from the Neighborhood: Local Semantic Averaging for Commonsense Inference in Language Models</a> - (Long, I)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-1295.pdf">Joseph Blass and Kenneth Forbus, Conclusion-Verified Analogical Schema Induction</a> - (Long, I)  <a onClick="goToSlackChannel(17)">(on Slack #paper17_2022_blass)</a></li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-8017.pdf">Derek Martin and Arnav Jhala, Dynamic Discounting in Decision-Making</a> - (Long, I)  <a onClick="goToSlackChannel(18)">(on Slack #paper18_2022_martin)</a></li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-5758.pdf">Claire Yin, Pedro Colon-Hernandez and Henry Lieberman, Getting Help from the Neighborhood: Local Semantic Averaging for Commonsense Inference in Language Models</a> - (Long, I)  <a onClick="goToSlackChannel(19)">(on Slack #paper19_2022_yin)</a></li>
    </ol>
      
   </td>
@@ -76,13 +76,13 @@ Title: <a href="{{site.baseurl}}/talks/#Cohn_talk"> Cognitive Systems with Spati
    <td> <span class="schedtime"> 1:30 PM - 3:10 PM </span></td> 
    <td id="session4">  <b> Session 4 </b> - Chair: Ben Wright
      <ol>
-     <li> <a href="{{site.baseurl}}/data/acs22_paper-8878.pdf">Jason Wilson, Lissangel Martinez and Irina Rabkina, Deductive Reasoning with Incomplete Knowledge via Repeated Analogies</a> - (Short, I)</li>
-     <li> <a href="{{site.baseurl}}/data/acs22_paper-2091.pdf">Pablo Gervás, A Discourse Interpretation Engine Sensitive to Truth Revisions in a Story</a> - (Short, I)</li>
-     <li> <a href="{{site.baseurl}}/data/acs22_paper-7803.pdf">Constantine Nakos, Mukundan Kuthalam and Kenneth Forbus, A Framework for Interactive Natural Language Debugging</a> - (Short, I)</li>
-     <li> <a href="{{site.baseurl}}/data/acs22_paper-9358.pdf">Jingwen Xiang, Zoie Zhao, Mackie Zhou, Megan McKenzie, Alexis Kilayko, Jamie C. Macbeth, Scott Carter, Katharine Sieck and Matthew Klenk, Interleaving a Symbolic Story Generator with a Neural Network-Based Large Language Model</a> - (Short, I)</li>
-     <li> <a href="{{site.baseurl}}/data/acs22_paper-301.pdf">Justin Brody and Don Perlis, Diasynchronic Logic</a> - (Short, I)</li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-8878.pdf">Jason Wilson, Lissangel Martinez and Irina Rabkina, Deductive Reasoning with Incomplete Knowledge via Repeated Analogies</a> - (Short, I)  <a onClick="goToSlackChannel(20)">(on Slack #paper20_2022_wilson)</a></li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-2091.pdf">Pablo Gervás, A Discourse Interpretation Engine Sensitive to Truth Revisions in a Story</a> - (Short, I)  <a onClick="goToSlackChannel(21)">(on Slack #paper21_2022_gervas)</a></li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-7803.pdf">Constantine Nakos, Mukundan Kuthalam and Kenneth Forbus, A Framework for Interactive Natural Language Debugging</a> - (Short, I)  <a onClick="goToSlackChannel(22)">(on Slack #paper22_2022_nakos)</a></li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-9358.pdf">Jingwen Xiang, Zoie Zhao, Mackie Zhou, Megan McKenzie, Alexis Kilayko, Jamie C. Macbeth, Scott Carter, Katharine Sieck and Matthew Klenk, Interleaving a Symbolic Story Generator with a Neural Network-Based Large Language Model</a> - (Short, I)  <a onClick="goToSlackChannel(23)">(on Slack #paper23_2022_xiang)</a></li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-301.pdf">Justin Brody and Don Perlis, Diasynchronic Logic</a> - (Short, I)  <a onClick="goToSlackChannel(24)">(on Slack #paper24_2022_brody)</a></li>
 <!--
-     <li> <a href="{{site.baseurl}}/data/acs22_paper-7038.pdf">Vasanth Sarathy, Mark Burstein, Scott Friedman, Robert Bobrow and Ugur Kuter, A Neuro-Symbolic Cognitive System for Intuitive Argumentation</a> - (Long, V)</li> -->
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-7038.pdf">Vasanth Sarathy, Mark Burstein, Scott Friedman, Robert Bobrow and Ugur Kuter, A Neuro-Symbolic Cognitive System for Intuitive Argumentation</a> - (Long, V) </li> -->
      </ol>
    </td> 
 </tr>
@@ -95,9 +95,9 @@ Title: <a href="{{site.baseurl}}/talks/#Cohn_talk"> Cognitive Systems with Spati
    <!--  <div class=shortnote>Short talks are 10 minutes plus 2 minutes for questions during changeover.</div> -->
    <!-- ###### Chaired by TBD -->     
      <ol>
-     <li> <a href="{{site.baseurl}}/data/acs22_paper-9776.pdf">Christopher Geib, Denson George, Baber Khalid, Richard Magnotti and Matthew Stone, An Integrated Architecture for Common Ground in Collaboration</a> - (Short, I)</li>
-     <li> <a href="{{site.baseurl}}/data/acs22_paper-6940.pdf">Adam Amos-Binks and Leilani Gilpin, Anticipatory Thinking Assessment: Stress tests using synthetic data</a> - (Short, I)</li>
-     <li> <a href="{{site.baseurl}}/data/acs22_paper-7677.pdf">Morgan Fine-Morris, Michael Floyd, Bryan Auslander, Greg Pennisi, Kalyan Gupta, Mark Roberts, Jeff Heflin and Hector Munoz-Avila Learning, Decomposition Methods with Numeric Landmarks</a> - (Short, V)</li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-9776.pdf">Christopher Geib, Denson George, Baber Khalid, Richard Magnotti and Matthew Stone, An Integrated Architecture for Common Ground in Collaboration</a> - (Short, I)  <a onClick="goToSlackChannel(25)">(on Slack #paper25_2022_geib)</a></li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-6940.pdf">Adam Amos-Binks and Leilani Gilpin, Anticipatory Thinking Assessment: Stress tests using synthetic data</a> - (Short, I)  <a onClick="goToSlackChannel(26)">(on Slack #paper26_2022_amos-binks)</a></li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-7677.pdf">Morgan Fine-Morris, Michael Floyd, Bryan Auslander, Greg Pennisi, Kalyan Gupta, Mark Roberts, Jeff Heflin and Hector Munoz-Avila Learning, Decomposition Methods with Numeric Landmarks</a> - (Short, V)  <a onClick="goToSlackChannel(27)">(on Slack #paper27_2022_fine-morris)</a></li>
      </ol>
         
  <!-- More examples from 2021 -->       
