@@ -38,9 +38,8 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 </tr>
 
 <tr>
-  <td id="session1"> <span class="schedtime"> 1:15 PM - 2:45 PM </span></td><td> <b> Session 1 </b>
-<!-- ###### Chaired by TBD -->
-
+  <td id="session1"> <span class="schedtime"> 1:15 PM - 2:45 PM </span></td><td> <b> Session 1 </b> - Chair: Mak Roberts
+  
 <!-- format from 2021, will we have slides? -->
   <!--
 
@@ -70,7 +69,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
   <td>  <b> Break</b> </td>
 </tr>
 <tr>
-  <td id="session2"> <span class="schedtime"> 3:05 PM - 3:45 PM </span></td><td> <b> Session 2 </b>
+  <td id="session2"> <span class="schedtime"> 3:05 PM - 3:45 PM </span></td><td> <b> Session 2 </b> - Chair: Arnav Jhala
 <!-- ###### Chaired by TBD -->
 
   <ol>
@@ -113,13 +112,13 @@ the Harding Center for Risk Literacy, University of Potsdam</a><br>
 <!-- ###### Chaired by TBD -->
 
   <ol>
-   <li> <a href="{{site.baseurl}}/data/acs22_paper-168.pdf">Robert L. Kirby, Knowledge Representation Integrating Conditional Probabilities, Closure Logic, and Primitives </a> - (poster, I)</li>
-   <li> <a href="{{site.baseurl}}/data/acs22_paper-757.pdf">	Christopher Geib, Jeffrey Rye and Vasanth Sarathy, Portals and Spaces: An Egocentric Knowledge Representation for Reasoning About Actions and its Implementation </a> - (poster, I)</li>
-   <li> <a href="{{site.baseurl}}/data/acs22_paper-1019.pdf">Jacob Morosco and Yuchou Chang, Visual Inference Using Homology of Human and Machine Vision Systems</a> - (poster, I)</li>
-    <li> <a href="{{site.baseurl}}/data/acs22_paper-1124.pdf">Venkatsampath Raja Gogineni, Sravya Kondrakunta and Michael Cox, Multi-agent Goal Delegation Using Theory of Mind</a> - (poster, I)</li>
-    <li> <a href="{{site.baseurl}}/data/acs22_paper-1545.pdf">Dustin Dannenhauer, Noah Reifsnyder, AJ Regester and Matthew Molineaux, Transforming Environments to Evaluate Agent Adaptation</a> - (poster, I)</li>
-    <li> <a href="{{site.baseurl}}/data/acs22_paper-1568.pdf">David Sekora, Addressing the Scaling Problem for Embodied Symbolic Reasoning</a> - (poster, I)</li>
-    <li> <a href="{{site.baseurl}}/data/acs22_paper-1694.pdf">Alex Arnold and Jeff Heflin, Learning a More Efficient Backward-Chaining Reasoner</a> - (poster, I)</li>
+   <li> <a href="{{site.baseurl}}/data/acs22_paper-168.pdf">Robert L. Kirby, Knowledge Representation Integrating Conditional Probabilities, Closure Logic, and Primitives </a> - (Poster, I)</li>
+   <li> <a href="{{site.baseurl}}/data/acs22_paper-757.pdf">	Christopher Geib, Jeffrey Rye and Vasanth Sarathy, Portals and Spaces: An Egocentric Knowledge Representation for Reasoning About Actions and its Implementation </a> - (Poster, I)</li>
+   <li> <a href="{{site.baseurl}}/data/acs22_paper-1019.pdf">Jacob Morosco and Yuchou Chang, Visual Inference Using Homology of Human and Machine Vision Systems</a> - (Poster, I)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-1124.pdf">Venkatsampath Raja Gogineni, Sravya Kondrakunta and Michael Cox, Multi-agent Goal Delegation Using Theory of Mind</a> - (Poster, I)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-1545.pdf">Dustin Dannenhauer, Noah Reifsnyder, AJ Regester and Matthew Molineaux, Transforming Environments to Evaluate Agent Adaptation</a> - (Poster, I)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-1568.pdf">David Sekora, Addressing the Scaling Problem for Embodied Symbolic Reasoning</a> - (Poster, I)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-1694.pdf">Alex Arnold and Jeff Heflin, Learning a More Efficient Backward-Chaining Reasoner</a> - (Poster, I)</li>
   </ol>
   
   </td>
@@ -130,10 +129,10 @@ the Harding Center for Risk Literacy, University of Potsdam</a><br>
 <!-- ###### Chaired by TBD -->
 
   <ol>
-    <li> <a href="{{site.baseurl}}/data/acs22_paper-1217.pdf">Megan McKenzie, Alexis Kilayko, Jamie C. Macbeth, Scott Carter, Katharine Sieck and Matthew Klenk, Script Combination for Enhanced Story Understanding and Story Generation Systems</a> - (poster, V)</li>
-    <li> <a href="{{site.baseurl}}/data/acs22_paper-3723.pdf">James Kirk, Robert Wray, Peter Lindes and John Laird, Improving Language Model Prompting in Support of Semi-autonomous Task Learning</a> - (poster, V)</li>
-    <li> <a href="{{site.baseurl}}/data/acs22_paper-9282.pdf">Sungeun An, Jennifer Hammock, Spencer Rugaber and Ashok Goel, Contextualized Access to Large-Scale Domain Knowledge for Conceptual Modeling of Agent-Based Systems</a> - (poster, V)</li>  
-    <li> <a href="{{site.baseurl}}/data/acs22_paper-7339.pdf">Braeden Lane, Connor Morgan, Kai Vickers, Max Woods, and Andrew Nuxoll, Towards an Artificial, General Episodic Memory via Learning in Noisy, Perceptually-Aliased Environments</a> - (poster, V)</li>    
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-1217.pdf">Megan McKenzie, Alexis Kilayko, Jamie C. Macbeth, Scott Carter, Katharine Sieck and Matthew Klenk, Script Combination for Enhanced Story Understanding and Story Generation Systems</a> - (Poster, V)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-3723.pdf">James Kirk, Robert Wray, Peter Lindes and John Laird, Improving Language Model Prompting in Support of Semi-autonomous Task Learning</a> - (Poster, V)</li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-9282.pdf">Sungeun An, Jennifer Hammock, Spencer Rugaber and Ashok Goel, Contextualized Access to Large-Scale Domain Knowledge for Conceptual Modeling of Agent-Based Systems</a> - (Poster, V)</li>  
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-7339.pdf">Braeden Lane, Connor Morgan, Kai Vickers, Max Woods, and Andrew Nuxoll, Towards an Artificial, General Episodic Memory via Learning in Noisy, Perceptually-Aliased Environments</a> - (Poster, V)</li>    
   </ol>
   
   </td>
