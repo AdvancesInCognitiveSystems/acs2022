@@ -47,7 +47,7 @@ We are pleased to announce the following invited talks:
 We are also pleased to announce the following panel and community discussion:
 
   - <span id="panel"></span>
-<b>Sunday, November 20st, 4:30 PM EST:</b><br>
+<b>Sunday, November 20th, 4:30 PM EST:</b><br>
 <b>Panel and Community Discussion</b><br>
     
     **Abstract:**  Recently a growing number of prominent voices have challenged the view that large language models and deep learning, in their current conceptions, will ever achieve human-level intelligence, reasoning, and understanding on their own.  What is our contribution to these debates?  This discussion will focus on the future objectives of the Advances in Cognitive Systems community from scientific, methodological, and philosophical perspectives and what role we might play within the broader research landscape.
