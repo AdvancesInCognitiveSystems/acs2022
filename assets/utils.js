@@ -1,5 +1,20 @@
 
-const paperMap = {13:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04B6Q73DNZ"}}
+const paperMap = {1:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04B30SGYF8"},
+                  2:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04B9J64HV1"},
+                  3:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04BNB7Q31P"},
+                  4:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04B9JSU8V9"},
+                  5:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04B34FTBPG"},
+                  6:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04BZDCMFT2"},
+                  7:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04B9N6CDA6"},
+                  8:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04B9K7QRDH"},
+                  9:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04B9K9AF9R"},
+                  10:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04BZDMDAE4"},
+                  11:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04BC6M8TTN"},
+                  12:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04BC6NMM44"},
+                  13:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04B6Q73DNZ"}, 
+                  14:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04BC6T3E9J"},
+                  15:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04BC6V96CC"}, 
+                  16:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04B6QF6LLD"}}
 var data
 
 function getRows(data) {
