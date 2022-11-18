@@ -14,8 +14,8 @@ day: tuesday-day4
 <tr>
 <td><a
 href="https://dcss-ai-wrapper.readthedocs.io/en/latest/tutorials/acs2022tutorial.html">Tutorial
-on Dungeon Crawl Stone Soup</a><br>
- <span class="schedtime"> Time TBD (Hybrid event) </span><br>
+on DCSS-AI-Wrapper: A researcher’s API to Dungeon Crawl Stone Soup</a><br>
+ <span class="schedtime"> 9:00am-12:00pm (Hybrid event) </span><br>
 <br>
 <i>This session will occur in person at GMU and in a Zoom session started by the organizers.</i>
 <br><br>
@@ -35,7 +35,7 @@ on Dungeon Crawl Stone Soup</a><br>
 
 
 <td><a href="https://sites.google.com/view/pacs2022">Workshop on Pedagogical Advances in Cognitive Systems</a><br>
- <span class="schedtime"> Time TBD (Hybrid Event) </span><br><br>
+ <span class="schedtime"> 9:00am-11:00am (Hybrid Event) </span><br><br>
 <i>This session will occur in person at GMU and in a Zoom session started by the workshop
 organizers. Registrants will be contacted by Tom Williams directly.</i>
 
