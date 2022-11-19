@@ -80,7 +80,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
   <td> <b>  Invited talk -
 <a href="{{site.baseurl}}/speakers/Ruth_Byrne/"> Ruth Byrne,</a> </b>
 <a href="https://www.tcd.ie/research/profiles/?profile=rmbyrne">Trinity College Dublin, University of Dublin, Ireland</a><br>
-<b>Title:</b><a href="{{site.baseurl}}/talks/#Byrne_talk"> How People Reason about Counterfactual Explanations </a> 
+<b>Title:</b><a href="{{site.baseurl}}/talks/#Byrne_talk"> How People Reason about Counterfactual Explanations </a> - <a onClick="goToSlackChannel(39)">(on Slack #invited02_2022_byrne)</a>
     
   </td>
 </tr>
@@ -106,7 +106,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
   <td> <b>  Invited talk - 
 <a href="{{site.baseurl}}/speakers/Doug_Lenat/"> Doug Lenat </a> </b>
 <a href="https://cyc.com/leadership-team/">, CEO,  Cycorp</a><br>
-<b>Title: </b><a href="{{site.baseurl}}/talks/#Lenat_talk">Computers versus Common Sense</a> 
+<b>Title: </b><a href="{{site.baseurl}}/talks/#Lenat_talk">Computers versus Common Sense</a>  - <a onClick="goToSlackChannel(40)">(on Slack #invited03_2022_lenat)</a>
     
   </td>
 </tr>
