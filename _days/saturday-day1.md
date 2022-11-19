@@ -119,7 +119,7 @@ the Harding Center for Risk Literacy, University of Potsdam</a><br>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-1545.pdf">Dustin Dannenhauer, Noah Reifsnyder, AJ Regester and Matthew Molineaux, Transforming Environments to Evaluate Agent Adaptation</a> - (Poster, I) <a onClick="goToSlackChannel(10)">(on Slack #paper10_2022_dannenhauer)</a></li>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-1568.pdf">David Sekora, Addressing the Scaling Problem for Embodied Symbolic Reasoning</a> - (Poster, I) <a onClick="goToSlackChannel(11)">(on Slack #paper11_2022_sekora)</a></li>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-1694.pdf">Alex Arnold and Jeff Heflin, Learning a More Efficient Backward-Chaining Reasoner</a> - (Poster, I) <a onClick="goToSlackChannel(12)">(on Slack #paper12_2022_arnold)</a></li>
-    <li> <a href="{{site.baseurl}}/data/acs22_paper-1492.pdf">Yida Xin, Henry Lieberman and Pedro Colon-Hernandez, Asking Language Models to Explain Pronoun-Ambiguous Sentences</a> - (Poster, I) <a onClick="goToSlackChannel(12)">(on Slack #paper37_2022_xin)</a></li>
+    <li> <a href="{{site.baseurl}}/data/acs22_paper-1492.pdf">Yida Xin, Henry Lieberman and Pedro Colon-Hernandez, Asking Language Models to Explain Pronoun-Ambiguous Sentences</a> - (Poster, I) <a onClick="goToSlackChannel(37)">(on Slack #paper37_2022_xin)</a></li>
   </ol>
   
   </td>
