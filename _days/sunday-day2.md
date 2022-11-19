@@ -52,7 +52,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
   </span></td>
 <td> <b>  Herbert A. Simon Prize Talk - <a href="{{site.baseurl}}/speakers/Anthony_Cohn/"> Anthony Cohn</a> </b><br>
 <a href="https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp">Professor of Automated Reasoning, University of Leeds</a><br>
-Title: <a href="{{site.baseurl}}/talks/#Cohn_talk"> Cognitive Systems with Spatial Intelligence</a>
+Title: <a href="{{site.baseurl}}/talks/#Cohn_talk"> Cognitive Systems with Spatial Intelligence</a> - <a onClick="goToSlackChannel(41)">(on Slack #simonprize_2022_cohn)</a>
 <tr> <td> <span class="schedtime"> 11:55 AM - 12:00 PM </span></td> <td>
 <b> Herbert A. Simon Prize Winner Presentation </b>  - Pat Langley</td>
 </tr>
@@ -118,7 +118,7 @@ Title: <a href="{{site.baseurl}}/talks/#Cohn_talk"> Cognitive Systems with Spati
 </tr>
 
 <tr> <td> <span class="schedtime"> 4:30 PM - 5:30 PM </span></td> <td>
-     <a href="{{site.baseurl}}/talks/#panel"><b> Panel and Community Discussion </b></a></td>
+     <a href="{{site.baseurl}}/talks/#panel"><b> Panel and Community Discussion </b></a> - <a onClick="goToSlackChannel(42)"> (on Slack #paneldiscussion_2022)</a></td>
 </tr>
 
 </table>
