@@ -34,7 +34,8 @@ const paperMap = {1:{"Slack Channel":"https://advcogsystems.slack.com/archives/C
                   33:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04AV8NT27R"}, 
                   34:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04B9MMD85R"}, 
                   35:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04AV8V11HV"}, 
-                  36:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04BC91PP1S"}}
+                  36:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04BC91PP1S"},
+                  37:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04CE0Q6RCG"}}
 var data
 
 function getRows(data) {
