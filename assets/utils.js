@@ -35,7 +35,12 @@ const paperMap = {1:{"Slack Channel":"https://advcogsystems.slack.com/archives/C
                   34:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04B9MMD85R"}, 
                   35:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04AV8V11HV"}, 
                   36:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04BC91PP1S"},
-                  37:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04CE0Q6RCG"}}
+                  37:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04CE0Q6RCG"},
+                  38:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04BZDBH80Y"}, // invited 1 si
+                  39:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04B6S2PJ2H"}, // invited 2 byrne
+                  40:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04BNE75H09"}, // invited 3 lenat
+                  41:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04BZEA2RHN"}, // simon 
+                  42:{"Slack Channel":"https://advcogsystems.slack.com/archives/C04B9PXLN9G"}} // panel
 var data
 
 function getRows(data) {
