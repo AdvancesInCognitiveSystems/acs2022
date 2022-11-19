@@ -91,7 +91,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 </tr>
 
 <tr>
-  <td id="session8"> <span class="schedtime"> 1:30 PM - 2:30 PM </span></td><td> <b> Session 8 </b>
+  <td id="session8"> <span class="schedtime"> 1:30 PM - 2:30 PM </span></td><td> <b> Session 8 </b> - Chair: 
 <!-- ###### Chaired by TBD -->
    <ol>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-5926.pdf">Matthew D. Goldberg and Donald Perlis, Real-Time Metacognition and Applications</a> - (Short, V) <a onClick="goToSlackChannel(32)">(on Slack #paper32_2022_goldberg)</a></li>
@@ -117,7 +117,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 </tr>
 <tr> 
    <td> <span class="schedtime"> 3:35 PM - 4:25 PM </span></td> 
-   <td id="session9">  <b> Session 9 </b>
+   <td id="session9">  <b> Session 9 </b> - Chair: Rogelio E. Cardona-Rivera
      <ol>
      <li> <a href="{{site.baseurl}}/data/acs22_paper-7038.pdf">Vasanth Sarathy, Mark Burstein, Scott Friedman, Robert Bobrow and Ugur Kuter, A Neuro-Symbolic Cognitive System for Intuitive Argumentation</a> - (Long, V) <a onClick="goToSlackChannel(35)">(on Slack #paper35_2022_sarathy)</a></li>
      <li> <a href="{{site.baseurl}}/data/acs22_paper-2603.pdf">Harsha Kokel, Mayukh Das, Rakibul Islam, Julia Bonn, Jon Cai, Soham Dan, Anjali Narayan-Chen, Prashant Jayannavar, Jana Doppa, Julia Hockenmaier, Sriraam Natarajan, Martha Palmer and Dan Roth, LARA – Human-guided collaborative problem solver: Effective integration of learning, reasoning and communication</a> - (Short, V) <a onClick="goToSlackChannel(36)">(on Slack #paper36_2022_kokel)</a></li>
