@@ -96,7 +96,7 @@ Title: <a href="{{site.baseurl}}/talks/#Cohn_talk"> Cognitive Systems with Spati
    <!-- ###### Chaired by TBD -->     
      <ol>
      <li> <a href="{{site.baseurl}}/data/acs22_paper-9776.pdf">Christopher Geib, Denson George, Baber Khalid, Richard Magnotti and Matthew Stone, An Integrated Architecture for Common Ground in Collaboration</a> - (Short, I)  <a onClick="goToSlackChannel(25)">(on Slack #paper25_2022_geib)</a></li>
-     <li> <a href="{{site.baseurl}}/data/acs22_paper-6940.pdf">Adam Amos-Binks and Leilani Gilpin, Anticipatory Thinking Assessment: Stress tests using synthetic data</a> - (Short, I)  <a onClick="goToSlackChannel(26)">(on Slack #paper26_2022_amos-binks)</a></li>
+     <li> <a href="{{site.baseurl}}/data/acs22_paper-6940.pdf">Adam Amos-Binks and Leilani Gilpin, Anticipatory Thinking Assessment: Stress tests using synthetic data</a> - (Short, V)  <a onClick="goToSlackChannel(26)">(on Slack #paper26_2022_amos-binks)</a></li>
      <li> <a href="{{site.baseurl}}/data/acs22_paper-7677.pdf">Morgan Fine-Morris, Michael Floyd, Bryan Auslander, Greg Pennisi, Kalyan Gupta, Mark Roberts, Jeff Heflin and Hector Munoz-Avila Learning, Decomposition Methods with Numeric Landmarks</a> - (Short, V)  <a onClick="goToSlackChannel(27)">(on Slack #paper27_2022_fine-morris)</a></li>
      </ol>
         
