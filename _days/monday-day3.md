@@ -91,7 +91,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 </tr>
 
 <tr>
-  <td id="session8"> <span class="schedtime"> 1:30 PM - 2:30 PM </span></td><td> <b> Session 8 </b> - Chair: 
+  <td id="session8"> <span class="schedtime"> 1:30 PM - 2:30 PM </span></td><td> <b> Session 8 </b> - Chair: Henry Lieberman
 <!-- ###### Chaired by TBD -->
    <ol>
     <li> <a href="{{site.baseurl}}/data/acs22_paper-5926.pdf">Matthew D. Goldberg and Donald Perlis, Real-Time Metacognition and Applications</a> - (Short, V) <a onClick="goToSlackChannel(32)">(on Slack #paper32_2022_goldberg)</a></li>
